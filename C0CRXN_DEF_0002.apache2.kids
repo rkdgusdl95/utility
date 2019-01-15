@@ -1,0 +1,2202 @@
+KIDS Distribution saved on Apr 04, 2013@16:10:03
+RxNorm File definitions Apache 2
+**KIDS**:C0CRXN DEF 0.2^
+
+**INSTALL NAME**
+C0CRXN DEF 0.2
+"BLD",8460,0)
+C0CRXN DEF 0.2^^0^3130404^n
+"BLD",8460,1,0)
+^^9^9^3130404^^
+"BLD",8460,1,1,0)
+See Project Homepage:
+"BLD",8460,1,2,0)
+https://trac.opensourcevista.net/wiki/RxNormForVista
+"BLD",8460,1,3,0)
+ 
+"BLD",8460,1,4,0)
+This Kids Build contains the following RxNorm files.
+"BLD",8460,1,5,0)
+ 
+"BLD",8460,1,6,0)
+RxNorm Files:
+"BLD",8460,1,7,0)
+RxNorm Concepts
+"BLD",8460,1,8,0)
+RxNorm to NDC
+"BLD",8460,1,9,0)
+RxNorm Sources
+"BLD",8460,4,0)
+^9.64PA^176.003^3
+"BLD",8460,4,176.001,0)
+176.001
+"BLD",8460,4,176.001,222)
+y^y^f^^^^n^^
+"BLD",8460,4,176.001,224)
+
+"BLD",8460,4,176.002,0)
+176.002
+"BLD",8460,4,176.002,222)
+y^y^f^^^^n^^
+"BLD",8460,4,176.002,224)
+
+"BLD",8460,4,176.003,0)
+176.003
+"BLD",8460,4,176.003,222)
+y^y^f^^^^n^^
+"BLD",8460,4,176.003,224)
+
+"BLD",8460,4,"B",176.001,176.001)
+
+"BLD",8460,4,"B",176.002,176.002)
+
+"BLD",8460,4,"B",176.003,176.003)
+
+"BLD",8460,6.3)
+7
+"BLD",8460,"KRN",0)
+^9.67PA^779.2^20
+"BLD",8460,"KRN",.4,0)
+.4
+"BLD",8460,"KRN",.4,"NM",0)
+^9.68A^^0
+"BLD",8460,"KRN",.401,0)
+.401
+"BLD",8460,"KRN",.401,"NM",0)
+^9.68A^^0
+"BLD",8460,"KRN",.402,0)
+.402
+"BLD",8460,"KRN",.403,0)
+.403
+"BLD",8460,"KRN",.5,0)
+.5
+"BLD",8460,"KRN",.84,0)
+.84
+"BLD",8460,"KRN",3.6,0)
+3.6
+"BLD",8460,"KRN",3.8,0)
+3.8
+"BLD",8460,"KRN",9.2,0)
+9.2
+"BLD",8460,"KRN",9.8,0)
+9.8
+"BLD",8460,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",8460,"KRN",9.8,"NM",1,0)
+C0CRXNRD^^0^B31452469
+"BLD",8460,"KRN",9.8,"NM","B","C0CRXNRD",1)
+
+"BLD",8460,"KRN",19,0)
+19
+"BLD",8460,"KRN",19.1,0)
+19.1
+"BLD",8460,"KRN",101,0)
+101
+"BLD",8460,"KRN",409.61,0)
+409.61
+"BLD",8460,"KRN",771,0)
+771
+"BLD",8460,"KRN",779.2,0)
+779.2
+"BLD",8460,"KRN",870,0)
+870
+"BLD",8460,"KRN",8989.51,0)
+8989.51
+"BLD",8460,"KRN",8989.52,0)
+8989.52
+"BLD",8460,"KRN",8994,0)
+8994
+"BLD",8460,"KRN","B",.4,.4)
+
+"BLD",8460,"KRN","B",.401,.401)
+
+"BLD",8460,"KRN","B",.402,.402)
+
+"BLD",8460,"KRN","B",.403,.403)
+
+"BLD",8460,"KRN","B",.5,.5)
+
+"BLD",8460,"KRN","B",.84,.84)
+
+"BLD",8460,"KRN","B",3.6,3.6)
+
+"BLD",8460,"KRN","B",3.8,3.8)
+
+"BLD",8460,"KRN","B",9.2,9.2)
+
+"BLD",8460,"KRN","B",9.8,9.8)
+
+"BLD",8460,"KRN","B",19,19)
+
+"BLD",8460,"KRN","B",19.1,19.1)
+
+"BLD",8460,"KRN","B",101,101)
+
+"BLD",8460,"KRN","B",409.61,409.61)
+
+"BLD",8460,"KRN","B",771,771)
+
+"BLD",8460,"KRN","B",779.2,779.2)
+
+"BLD",8460,"KRN","B",870,870)
+
+"BLD",8460,"KRN","B",8989.51,8989.51)
+
+"BLD",8460,"KRN","B",8989.52,8989.52)
+
+"BLD",8460,"KRN","B",8994,8994)
+
+"BLD",8460,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",8460,"QUES",0)
+^9.62^^
+"BLD",8460,"REQB",0)
+^9.611^^
+"FIA",176.001)
+RXNORM CONCEPTS
+"FIA",176.001,0)
+^C0CRXN(176.001,
+"FIA",176.001,0,0)
+176.001I
+"FIA",176.001,0,1)
+y^y^f^^^^n^^
+"FIA",176.001,0,10)
+
+"FIA",176.001,0,11)
+
+"FIA",176.001,0,"RLRO")
+
+"FIA",176.001,176.001)
+0
+"FIA",176.001,176.0015)
+0
+"FIA",176.002)
+RXNORM NDC TO RXCUI
+"FIA",176.002,0)
+^C0CRXN(176.002,
+"FIA",176.002,0,0)
+176.002I
+"FIA",176.002,0,1)
+y^y^f^^^^n^^
+"FIA",176.002,0,10)
+
+"FIA",176.002,0,11)
+
+"FIA",176.002,0,"RLRO")
+
+"FIA",176.002,176.002)
+0
+"FIA",176.003)
+RXNORM SOURCES
+"FIA",176.003,0)
+^C0CRXN(176.003,
+"FIA",176.003,0,0)
+176.003I
+"FIA",176.003,0,1)
+y^y^f^^^^n^^
+"FIA",176.003,0,10)
+
+"FIA",176.003,0,11)
+
+"FIA",176.003,0,"RLRO")
+
+"FIA",176.003,176.003)
+0
+"FIA",176.003,176.0031)
+0
+"IX",176.001,176.001,"RXN2VUID",0)
+176.001^RXN2VUID^RxNorm to VUID Index^R^^R^IR^I^176.001^^^^^LS
+"IX",176.001,176.001,"RXN2VUID",1)
+S ^C0CRXN(176.001,"RXN2VUID",X(1),X(2),DA)=""
+"IX",176.001,176.001,"RXN2VUID",1.4)
+S X=X(3)="VANDF"&(X(4)="CD")
+"IX",176.001,176.001,"RXN2VUID",2)
+K ^C0CRXN(176.001,"RXN2VUID",X(1),X(2),DA)
+"IX",176.001,176.001,"RXN2VUID",2.4)
+S X=X(3)="VANDF"&(X(4)="CD")
+"IX",176.001,176.001,"RXN2VUID",2.5)
+K ^C0CRXN(176.001,"RXN2VUID")
+"IX",176.001,176.001,"RXN2VUID",11.1,0)
+^.114IA^4^4
+"IX",176.001,176.001,"RXN2VUID",11.1,1,0)
+1^F^176.001^.01^^1^F
+"IX",176.001,176.001,"RXN2VUID",11.1,1,3)
+
+"IX",176.001,176.001,"RXN2VUID",11.1,2,0)
+2^F^176.001^4^^2^F
+"IX",176.001,176.001,"RXN2VUID",11.1,2,3)
+
+"IX",176.001,176.001,"RXN2VUID",11.1,3,0)
+3^F^176.001^2^^^F
+"IX",176.001,176.001,"RXN2VUID",11.1,3,3)
+
+"IX",176.001,176.001,"RXN2VUID",11.1,4,0)
+4^F^176.001^3^^^F
+"IX",176.001,176.001,"RXN2VUID",11.1,4,3)
+
+"IX",176.001,176.001,"SBD",0)
+176.001^SBD^Semantic Branded Drug Index^R^^R^IR^I^176.001^^^^^LS
+"IX",176.001,176.001,"SBD",.1,0)
+^^10^10^3110725^
+"IX",176.001,176.001,"SBD",.1,1,0)
+This index will assist the programmer/user to figure out if the RxNorm
+"IX",176.001,176.001,"SBD",.1,2,0)
+number belongs to the generic form of a drug or to its brand name.
+"IX",176.001,176.001,"SBD",.1,3,0)
+ 
+"IX",176.001,176.001,"SBD",.1,4,0)
+If it is a brand name, the programmer may need to convert the RxNorm 
+"IX",176.001,176.001,"SBD",.1,5,0)
+number to the generic equivalent.
+"IX",176.001,176.001,"SBD",.1,6,0)
+ 
+"IX",176.001,176.001,"SBD",.1,7,0)
+To test if a drug is a brand name RxNorm number, the programmer can do 
+"IX",176.001,176.001,"SBD",.1,8,0)
+the following (where RXN is the RxNorm number):
+"IX",176.001,176.001,"SBD",.1,9,0)
+ 
+"IX",176.001,176.001,"SBD",.1,10,0)
+  I $DATA(^C0CRXN(176.001,"SBD",RXN)) W "BRAND"
+"IX",176.001,176.001,"SBD",1)
+S ^C0CRXN(176.001,"SBD",X(2),DA)=""
+"IX",176.001,176.001,"SBD",1.4)
+S X=(X(1)="SBD")
+"IX",176.001,176.001,"SBD",2)
+K ^C0CRXN(176.001,"SBD",X(2),DA)
+"IX",176.001,176.001,"SBD",2.4)
+S X=(X(1)="SBD")
+"IX",176.001,176.001,"SBD",2.5)
+K ^C0CRXN(176.001,"SBD")
+"IX",176.001,176.001,"SBD",11.1,0)
+^.114IA^2^2
+"IX",176.001,176.001,"SBD",11.1,1,0)
+1^F^176.001^3^^^F
+"IX",176.001,176.001,"SBD",11.1,2,0)
+2^F^176.001^.01^^1^F
+"IX",176.001,176.001,"SCD",0)
+176.001^SCD^Index for RXNORM canonical entries^R^^R^IR^I^176.001^^^^^LS
+"IX",176.001,176.001,"SCD",.1,0)
+^^4^4^3090222^
+"IX",176.001,176.001,"SCD",.1,1,0)
+This field indexes only Semantic Clinical Drugs. Thus indexed, if we get 
+"IX",176.001,176.001,"SCD",.1,2,0)
+into a quandary of 2 RxNorm codes, not knowing which one is the 
+"IX",176.001,176.001,"SCD",.1,3,0)
+cannonical one, we can find that one that has a semantic clinical drug 
+"IX",176.001,176.001,"SCD",.1,4,0)
+entry.
+"IX",176.001,176.001,"SCD",1)
+S ^C0CRXN(176.001,"SCD",X(1),DA)=""
+"IX",176.001,176.001,"SCD",1.4)
+S X=X(2)="RXNORM"&(X(3)="SCD")
+"IX",176.001,176.001,"SCD",2)
+K ^C0CRXN(176.001,"SCD",X(1),DA)
+"IX",176.001,176.001,"SCD",2.4)
+S X=X(2)="RXNORM"&(X(3)="SCD")
+"IX",176.001,176.001,"SCD",2.5)
+K ^C0CRXN(176.001,"SCD")
+"IX",176.001,176.001,"SCD",11.1,0)
+^.114IA^3^3
+"IX",176.001,176.001,"SCD",11.1,1,0)
+1^F^176.001^.01^^1^F
+"IX",176.001,176.001,"SCD",11.1,1,3)
+
+"IX",176.001,176.001,"SCD",11.1,2,0)
+2^F^176.001^2^^^F
+"IX",176.001,176.001,"SCD",11.1,2,3)
+
+"IX",176.001,176.001,"SCD",11.1,3,0)
+3^F^176.001^3^^^F
+"IX",176.001,176.001,"SCD",11.1,3,3)
+
+"IX",176.001,176.001,"VUID",0)
+176.001^VUID^VUID Index^R^^R^IR^I^176.001^^^^^LS
+"IX",176.001,176.001,"VUID",.1,0)
+^^6^6^3081123^
+"IX",176.001,176.001,"VUID",.1,1,0)
+This index is to enable the programmer to pull the RxNorm number given 
+"IX",176.001,176.001,"VUID",.1,2,0)
+the VUID. The VUID is the source vocabulary code when the entry 
+"IX",176.001,176.001,"VUID",.1,3,0)
+Source is "VANDF" (thus the index logic that you see). The number
+"IX",176.001,176.001,"VUID",.1,4,0)
+corresponds to the VUID in the drug ingredients file, VA Generic file, and
+"IX",176.001,176.001,"VUID",.1,5,0)
+various other drug files that reference a VUID. In addtion, GMR Allergy
+"IX",176.001,176.001,"VUID",.1,6,0)
+file also references this file for allergens.
+"IX",176.001,176.001,"VUID",1)
+S ^C0CRXN(176.001,"VUID",X(1),DA)=""
+"IX",176.001,176.001,"VUID",1.4)
+S X=X(2)="VANDF"&(X(3)="CD")
+"IX",176.001,176.001,"VUID",2)
+K ^C0CRXN(176.001,"VUID",X(1),DA)
+"IX",176.001,176.001,"VUID",2.4)
+S X=X(2)="VANDF"&(X(3)="CD")
+"IX",176.001,176.001,"VUID",2.5)
+K ^C0CRXN(176.001,"VUID")
+"IX",176.001,176.001,"VUID",11.1,0)
+^.114IA^3^3
+"IX",176.001,176.001,"VUID",11.1,1,0)
+1^F^176.001^4^^1^F
+"IX",176.001,176.001,"VUID",11.1,2,0)
+2^F^176.001^2^^^F
+"IX",176.001,176.001,"VUID",11.1,3,0)
+3^F^176.001^3^^^F
+"IX",176.002,176.002,"COMB",0)
+176.002^COMB^Uniqueness Index for Key 'N' of File #176.002^R^^R^IR^I^176.002^^^^^LS
+"IX",176.002,176.002,"COMB",1)
+S ^C0CRXN(176.002,"COMB",X(1),X(2),DA)=""
+"IX",176.002,176.002,"COMB",2)
+K ^C0CRXN(176.002,"COMB",X(1),X(2),DA)
+"IX",176.002,176.002,"COMB",2.5)
+K ^C0CRXN(176.002,"COMB")
+"IX",176.002,176.002,"COMB",11.1,0)
+^.114IA^2^2
+"IX",176.002,176.002,"COMB",11.1,1,0)
+1^F^176.002^.01^^1
+"IX",176.002,176.002,"COMB",11.1,2,0)
+2^F^176.002^2^^2
+"KEY",176.002,176.002,"N",0)
+176.002^N^P^745
+"KEY",176.002,176.002,"N",2,0)
+^.312IA^2^2
+"KEY",176.002,176.002,"N",2,1,0)
+.01^176.002^1
+"KEY",176.002,176.002,"N",2,2,0)
+2^176.002^2
+"KEYPTR",176.002,176.002,"N")
+176.002^COMB
+"MBREQ")
+0
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","C0CRXNRD")
+0^1^B31452469
+"RTN","C0CRXNRD",1,0)
+C0CRXNRD ; WV/SMH - CCR/CCD PROJECT: Routine to Read RxNorm files;11/15/08
+"RTN","C0CRXNRD",2,0)
+ ;;0.1;C0C;nopatch;noreleasedate;Build 7
+"RTN","C0CRXNRD",3,0)
+ W "No entry from top" Q
+"RTN","C0CRXNRD",4,0)
+IMPORT(PATH) 
+"RTN","C0CRXNRD",5,0)
+ I PATH="" QUIT
+"RTN","C0CRXNRD",6,0)
+ D READSRC(PATH),READCON(PATH),READNDC(PATH)
+"RTN","C0CRXNRD",7,0)
+ QUIT
+"RTN","C0CRXNRD",8,0)
+ ;
+"RTN","C0CRXNRD",9,0)
+DELFILED(FN) ; Delete file data; PEP procedure; only for RxNorm files
+"RTN","C0CRXNRD",10,0)
+ ; FN is Filenumber passed by Value
+"RTN","C0CRXNRD",11,0)
+ QUIT:$E(FN,1,3)'=176  ; Quit if not RxNorm files
+"RTN","C0CRXNRD",12,0)
+ D CLEAN^DILF ; Clean FM variables
+"RTN","C0CRXNRD",13,0)
+ N ROOT S ROOT=$$ROOT^DILFD(FN,"",1) ; global root
+"RTN","C0CRXNRD",14,0)
+ N ZERO S ZERO=@ROOT@(0) ; Save zero node
+"RTN","C0CRXNRD",15,0)
+ S $P(ZERO,U,3,9999)="" ; Remove entry # and last edited
+"RTN","C0CRXNRD",16,0)
+ K @ROOT ; Kill the file -- so sad!
+"RTN","C0CRXNRD",17,0)
+ S @ROOT@(0)=ZERO ; It riseth again!
+"RTN","C0CRXNRD",18,0)
+ QUIT
+"RTN","C0CRXNRD",19,0)
+GETLINES(PATH,FILENAME) ; Get number of lines in a file
+"RTN","C0CRXNRD",20,0)
+ D OPEN^%ZISH("FILE",PATH,FILENAME,"R")
+"RTN","C0CRXNRD",21,0)
+ U IO
+"RTN","C0CRXNRD",22,0)
+ N I
+"RTN","C0CRXNRD",23,0)
+ F I=1:1 R LINE Q:$$STATUS^%ZISH
+"RTN","C0CRXNRD",24,0)
+ D CLOSE^%ZISH("FILE")
+"RTN","C0CRXNRD",25,0)
+ Q I-1
+"RTN","C0CRXNRD",26,0)
+READCON(PATH,INCRES) ; Open and read concepts file: RXNCONSO.RRF; EP
+"RTN","C0CRXNRD",27,0)
+ ; PATH ByVal, path of RxNorm files
+"RTN","C0CRXNRD",28,0)
+ ; INCRES ByVal, include restricted sources. 1 for yes, 0 for no
+"RTN","C0CRXNRD",29,0)
+ I PATH="" QUIT
+"RTN","C0CRXNRD",30,0)
+ S INCRES=+$G(INCRES) ; if not passed, becomes zero.
+"RTN","C0CRXNRD",31,0)
+ N FILENAME S FILENAME="RXNCONSO.RRF"
+"RTN","C0CRXNRD",32,0)
+ D DELFILED(176.001) ; delete data
+"RTN","C0CRXNRD",33,0)
+ N LINES S LINES=$$GETLINES(PATH,FILENAME)
+"RTN","C0CRXNRD",34,0)
+ D OPEN^%ZISH("FILE",PATH,FILENAME,"R")
+"RTN","C0CRXNRD",35,0)
+ IF POP D EN^DDIOL("Error reading file..., Please check...") G EX
+"RTN","C0CRXNRD",36,0)
+ N C0CCOUNT
+"RTN","C0CRXNRD",37,0)
+ F C0CCOUNT=1:1 D  Q:$$STATUS^%ZISH
+"RTN","C0CRXNRD",38,0)
+ . U IO
+"RTN","C0CRXNRD",39,0)
+ . N LINE R LINE
+"RTN","C0CRXNRD",40,0)
+ . IF $$STATUS^%ZISH QUIT
+"RTN","C0CRXNRD",41,0)
+ . I '(C0CCOUNT#1000) U $P W C0CCOUNT," of ",LINES," read ",! U IO ; update every 1000
+"RTN","C0CRXNRD",42,0)
+ . N RXCUI,RXAUI,SAB,TTY,CODE,STR  ; Fileman fields numbers below
+"RTN","C0CRXNRD",43,0)
+ . S RXCUI=$P(LINE,"|",1)	; .01
+"RTN","C0CRXNRD",44,0)
+ . S RXAUI=$P(LINE,"|",8)	; 1
+"RTN","C0CRXNRD",45,0)
+ . S SAB=$P(LINE,"|",12)	; 2
+"RTN","C0CRXNRD",46,0)
+ . ; If the source is a restricted source, decide what to do based on what's asked.
+"RTN","C0CRXNRD",47,0)
+ . N SRCIEN S SRCIEN=$$FIND1^DIC(176.003,"","QX",SAB,"B") ; SrcIEN in RXNORM SOURCES file
+"RTN","C0CRXNRD",48,0)
+ . N RESTRIC S RESTRIC=$$GET1^DIQ(176.003,SRCIEN,14,"I") ; 14 is restriction field; values 0-4
+"RTN","C0CRXNRD",49,0)
+ . ; If RESTRIC is zero, then it's unrestricted. Everything else is restricted.
+"RTN","C0CRXNRD",50,0)
+ . ; If user didn't ask to include restricted sources, and the source is restricted, then quit
+"RTN","C0CRXNRD",51,0)
+ . I 'INCRES,RESTRIC QUIT
+"RTN","C0CRXNRD",52,0)
+ . S TTY=$P(LINE,"|",13)	; 3
+"RTN","C0CRXNRD",53,0)
+ . S CODE=$P(LINE,"|",14)	; 4
+"RTN","C0CRXNRD",54,0)
+ . S STR=$P(LINE,"|",15)	; 5
+"RTN","C0CRXNRD",55,0)
+ . ; Remove embedded "^"
+"RTN","C0CRXNRD",56,0)
+ . S STR=$TR(STR,"^")
+"RTN","C0CRXNRD",57,0)
+ . ; Convert STR into an array of 80 characters on each line
+"RTN","C0CRXNRD",58,0)
+ . N STRLINE S STRLINE=$L(STR)\80+1
+"RTN","C0CRXNRD",59,0)
+ . ; In each line, chop 80 characters off, reset STR to be the rest
+"RTN","C0CRXNRD",60,0)
+ . N J F J=1:1:STRLINE S STR(J)=$E(STR,1,80) S STR=$E(STR,81,$L(STR))
+"RTN","C0CRXNRD",61,0)
+ . ; Now, construct the FDA array
+"RTN","C0CRXNRD",62,0)
+ . N RXNFDA
+"RTN","C0CRXNRD",63,0)
+ . S RXNFDA(176.001,"+1,",.01)=RXCUI
+"RTN","C0CRXNRD",64,0)
+ . S RXNFDA(176.001,"+1,",1)=RXAUI
+"RTN","C0CRXNRD",65,0)
+ . S RXNFDA(176.001,"+1,",2)=SAB
+"RTN","C0CRXNRD",66,0)
+ . S RXNFDA(176.001,"+1,",3)=TTY
+"RTN","C0CRXNRD",67,0)
+ . S RXNFDA(176.001,"+1,",4)=CODE
+"RTN","C0CRXNRD",68,0)
+ . N RXNIEN S RXNIEN(1)=C0CCOUNT
+"RTN","C0CRXNRD",69,0)
+ . D UPDATE^DIE("","RXNFDA","RXNIEN")
+"RTN","C0CRXNRD",70,0)
+ . I $D(^TMP("DIERR",$J)) D EN^DDIOL("ERROR") G EX
+"RTN","C0CRXNRD",71,0)
+ . ; Now, file WP field STR
+"RTN","C0CRXNRD",72,0)
+ . D WP^DIE(176.001,C0CCOUNT_",",5,,$NA(STR))
+"RTN","C0CRXNRD",73,0)
+EX D CLOSE^%ZISH("FILE")
+"RTN","C0CRXNRD",74,0)
+ QUIT
+"RTN","C0CRXNRD",75,0)
+READNDC(PATH) ; Open and read NDC/RxNorm/VANDF relationship file: RXNSAT.RRF
+"RTN","C0CRXNRD",76,0)
+ I PATH="" QUIT
+"RTN","C0CRXNRD",77,0)
+ N FILENAME S FILENAME="RXNSAT.RRF"
+"RTN","C0CRXNRD",78,0)
+ D DELFILED(176.002) ; delete data
+"RTN","C0CRXNRD",79,0)
+ N LINES S LINES=$$GETLINES(PATH,FILENAME)
+"RTN","C0CRXNRD",80,0)
+ D OPEN^%ZISH("FILE",PATH,FILENAME,"R")
+"RTN","C0CRXNRD",81,0)
+ IF POP W "Error reading file..., Please check...",! G EX2
+"RTN","C0CRXNRD",82,0)
+ F C0CCOUNT=1:1 Q:$$STATUS^%ZISH  D
+"RTN","C0CRXNRD",83,0)
+ . U IO
+"RTN","C0CRXNRD",84,0)
+ . N LINE R LINE
+"RTN","C0CRXNRD",85,0)
+ . IF $$STATUS^%ZISH QUIT
+"RTN","C0CRXNRD",86,0)
+ . I '(C0CCOUNT#1000) U $P W C0CCOUNT," of ",LINES," read ",! U IO ; update every 1000
+"RTN","C0CRXNRD",87,0)
+ . IF LINE'["NDC|RXNORM"  QUIT
+"RTN","C0CRXNRD",88,0)
+ . ; Otherwise, we are good to go
+"RTN","C0CRXNRD",89,0)
+ . N RXCUI,NDC ; Fileman fields below
+"RTN","C0CRXNRD",90,0)
+ . S RXCUI=$P(LINE,"|",1)	; .01
+"RTN","C0CRXNRD",91,0)
+ . S NDC=$P(LINE,"|",11)	; 2
+"RTN","C0CRXNRD",92,0)
+ . ; Using classic call to update.
+"RTN","C0CRXNRD",93,0)
+ . N DIC,X,DA,DR
+"RTN","C0CRXNRD",94,0)
+ . K DO
+"RTN","C0CRXNRD",95,0)
+ . S DIC="^C0CRXN(176.002,",DIC(0)="F",X=RXCUI,DIC("DR")="2////"_NDC
+"RTN","C0CRXNRD",96,0)
+ . D FILE^DICN
+"RTN","C0CRXNRD",97,0)
+ . I Y<1 U $P W !,"THERE IS TROUBLE IN RIVER CITY",! G EX2
+"RTN","C0CRXNRD",98,0)
+EX2 D CLOSE^%ZISH("FILE")
+"RTN","C0CRXNRD",99,0)
+ QUIT
+"RTN","C0CRXNRD",100,0)
+READSRC(PATH) ; Open the read RxNorm Sources file: RXNSAB.RRF
+"RTN","C0CRXNRD",101,0)
+ I PATH="" QUIT
+"RTN","C0CRXNRD",102,0)
+ N FILENAME S FILENAME="RXNSAB.RRF"
+"RTN","C0CRXNRD",103,0)
+ D DELFILED(176.003) ; delete data
+"RTN","C0CRXNRD",104,0)
+ D OPEN^%ZISH("FILE",PATH,FILENAME,"R")
+"RTN","C0CRXNRD",105,0)
+ IF POP W "Error reading file..., Please check...",! G EX3
+"RTN","C0CRXNRD",106,0)
+ F I=1:1 Q:$$STATUS^%ZISH  D
+"RTN","C0CRXNRD",107,0)
+ . U IO
+"RTN","C0CRXNRD",108,0)
+ . N LINE R LINE
+"RTN","C0CRXNRD",109,0)
+ . IF $$STATUS^%ZISH QUIT
+"RTN","C0CRXNRD",110,0)
+ . U $P W I,! U IO  ; Write I to the screen, then go back to reading the file
+"RTN","C0CRXNRD",111,0)
+ . N VCUI,RCUI,VSAB,RSAB,SON,SF,SVER,SRL,SCIT ; Fileman fields numbers below
+"RTN","C0CRXNRD",112,0)
+ . S VCUI=$P(LINE,"|",1)        ; .01
+"RTN","C0CRXNRD",113,0)
+ . S RCUI=$P(LINE,"|",2)        ; 2
+"RTN","C0CRXNRD",114,0)
+ . S VSAB=$P(LINE,"|",3)        ; 3
+"RTN","C0CRXNRD",115,0)
+ . S RSAB=$P(LINE,"|",4)        ; 4
+"RTN","C0CRXNRD",116,0)
+ . S SON=$P(LINE,"|",5)         ; 5
+"RTN","C0CRXNRD",117,0)
+ . S SF=$P(LINE,"|",6)          ; 6
+"RTN","C0CRXNRD",118,0)
+ . S SVER=$P(LINE,"|",7)        ; 7
+"RTN","C0CRXNRD",119,0)
+ . S SRL=$P(LINE,"|",14)		; 14
+"RTN","C0CRXNRD",120,0)
+ . S SCIT=$P(LINE,"|",25)       ; 25
+"RTN","C0CRXNRD",121,0)
+ . ; Remove embedded "^"
+"RTN","C0CRXNRD",122,0)
+ . S SCIT=$TR(SCIT,"^")
+"RTN","C0CRXNRD",123,0)
+ . ; Convert SCIT into an array of 80 characters on each line
+"RTN","C0CRXNRD",124,0)
+ . ; In each line, chop 80 characters off, reset SCIT to be the rest
+"RTN","C0CRXNRD",125,0)
+ . N SCITLINE S SCITLINE=$L(SCIT)\80+1
+"RTN","C0CRXNRD",126,0)
+ . F J=1:1:SCITLINE S SCIT(J)=$E(SCIT,1,80) S SCIT=$E(SCIT,81,$L(SCIT))
+"RTN","C0CRXNRD",127,0)
+ . ; Now, construct the FDA array
+"RTN","C0CRXNRD",128,0)
+ . N RXNFDA
+"RTN","C0CRXNRD",129,0)
+ . S RXNFDA(176.003,"+"_I_",",.01)=VCUI
+"RTN","C0CRXNRD",130,0)
+ . S RXNFDA(176.003,"+"_I_",",2)=RCUI
+"RTN","C0CRXNRD",131,0)
+ . S RXNFDA(176.003,"+"_I_",",3)=VSAB
+"RTN","C0CRXNRD",132,0)
+ . S RXNFDA(176.003,"+"_I_",",4)=RSAB
+"RTN","C0CRXNRD",133,0)
+ . S RXNFDA(176.003,"+"_I_",",5)=SON
+"RTN","C0CRXNRD",134,0)
+ . S RXNFDA(176.003,"+"_I_",",6)=SF
+"RTN","C0CRXNRD",135,0)
+ . S RXNFDA(176.003,"+"_I_",",7)=SVER
+"RTN","C0CRXNRD",136,0)
+ . S RXNFDA(176.003,"+"_I_",",14)=SRL
+"RTN","C0CRXNRD",137,0)
+ . D UPDATE^DIE("","RXNFDA")
+"RTN","C0CRXNRD",138,0)
+ . I $D(^TMP("DIERR",$J)) U $P W "ERR" G EX
+"RTN","C0CRXNRD",139,0)
+ . ; Now, file WP field SCIT
+"RTN","C0CRXNRD",140,0)
+ . D WP^DIE(176.003,I_",",25,,$NA(SCIT))
+"RTN","C0CRXNRD",141,0)
+EX3 D CLOSE^%ZISH("FILE")
+"RTN","C0CRXNRD",142,0)
+ Q
+"RTN","C0CRXNRD",143,0)
+ 
+"SEC","^DIC",176.001,176.001,0,"AUDIT")
+@
+"SEC","^DIC",176.001,176.001,0,"DD")
+
+"SEC","^DIC",176.001,176.001,0,"DEL")
+
+"SEC","^DIC",176.001,176.001,0,"LAYGO")
+
+"SEC","^DIC",176.001,176.001,0,"RD")
+
+"SEC","^DIC",176.001,176.001,0,"WR")
+
+"SEC","^DIC",176.002,176.002,0,"AUDIT")
+
+"SEC","^DIC",176.002,176.002,0,"DD")
+
+"SEC","^DIC",176.002,176.002,0,"DEL")
+
+"SEC","^DIC",176.002,176.002,0,"LAYGO")
+
+"SEC","^DIC",176.002,176.002,0,"RD")
+
+"SEC","^DIC",176.002,176.002,0,"WR")
+
+"SEC","^DIC",176.003,176.003,0,"AUDIT")
+@
+"SEC","^DIC",176.003,176.003,0,"DD")
+
+"SEC","^DIC",176.003,176.003,0,"DEL")
+@
+"SEC","^DIC",176.003,176.003,0,"LAYGO")
+@
+"SEC","^DIC",176.003,176.003,0,"RD")
+
+"SEC","^DIC",176.003,176.003,0,"WR")
+@
+"VER")
+8.0^22.0
+"^DD",176.001,176.001,0)
+FIELD^^5^6
+"^DD",176.001,176.001,0,"DDA")
+N
+"^DD",176.001,176.001,0,"DT")
+3110726
+"^DD",176.001,176.001,0,"ID",2)
+W "   ",$P(^(0),U,3)
+"^DD",176.001,176.001,0,"ID",3)
+W "   ",$P(^(0),U,4)
+"^DD",176.001,176.001,0,"ID",4)
+W "   ",$P(^(0),U,5)
+"^DD",176.001,176.001,0,"IX","B",176.001,.01)
+
+"^DD",176.001,176.001,0,"IX","RXAUI",176.001,1)
+
+"^DD",176.001,176.001,0,"NM","RXNORM CONCEPTS")
+
+"^DD",176.001,176.001,.01,0)
+RXCUI^RNJ7,0^^0;1^K:+X'=X!(X>9999999)!(X<1)!(X?.E1"."1.N) X
+"^DD",176.001,176.001,.01,.1)
+RxNorm Concept Unique Identifier
+"^DD",176.001,176.001,.01,1,0)
+^.1
+"^DD",176.001,176.001,.01,1,1,0)
+176.001^B
+"^DD",176.001,176.001,.01,1,1,1)
+S ^C0CRXN(176.001,"B",$E(X,1,30),DA)=""
+"^DD",176.001,176.001,.01,1,1,2)
+K ^C0CRXN(176.001,"B",$E(X,1,30),DA)
+"^DD",176.001,176.001,.01,3)
+RXCUI from RxNORM
+"^DD",176.001,176.001,.01,10)
+Piece 1 from RxNorm file RXNCONSO.RRF
+"^DD",176.001,176.001,.01,"DT")
+3110725
+"^DD",176.001,176.001,1,0)
+RXAUI^NJ7,0^^0;2^K:+X'=X!(X>9999999)!(X<1)!(X?.E1"."1.N) X
+"^DD",176.001,176.001,1,.1)
+RxNorm Atom Unique ID
+"^DD",176.001,176.001,1,1,0)
+^.1
+"^DD",176.001,176.001,1,1,1,0)
+176.001^RXAUI
+"^DD",176.001,176.001,1,1,1,1)
+S ^C0CRXN(176.001,"RXAUI",$E(X,1,30),DA)=""
+"^DD",176.001,176.001,1,1,1,2)
+K ^C0CRXN(176.001,"RXAUI",$E(X,1,30),DA)
+"^DD",176.001,176.001,1,1,1,"%D",0)
+^^1^1^3110726^
+"^DD",176.001,176.001,1,1,1,"%D",1,0)
+RxNorm Atom Concepts Index
+"^DD",176.001,176.001,1,1,1,"DT")
+3110726
+"^DD",176.001,176.001,1,3)
+RXAUI from RxNorm
+"^DD",176.001,176.001,1,10)
+Piece 8 from RXCONSO.RRF
+"^DD",176.001,176.001,1,"DT")
+3110726
+"^DD",176.001,176.001,2,0)
+SAB^F^^0;3^K:$L(X)>15!($L(X)<2) X
+"^DD",176.001,176.001,2,.1)
+Source Abbreviation. See Description.
+"^DD",176.001,176.001,2,3)
+Source Abbreviation from RxNorm
+"^DD",176.001,176.001,2,10)
+Piece 12 from RXCONSO.RRF
+"^DD",176.001,176.001,2,21,0)
+^^3^3^3081116^
+"^DD",176.001,176.001,2,21,1,0)
+Abbreviation of the source of the attribute. Possible values 
+"^DD",176.001,176.001,2,21,2,0)
+appear in RXNSAB.RRF and are listed in Appendix B.4 of the Metathesaurus 
+"^DD",176.001,176.001,2,21,3,0)
+documentation
+"^DD",176.001,176.001,2,"DT")
+3110722
+"^DD",176.001,176.001,3,0)
+TTY^F^^0;4^K:$L(X)>11!($L(X)<2) X
+"^DD",176.001,176.001,3,.1)
+Term Type in Source. See Description.
+"^DD",176.001,176.001,3,3)
+Term Type
+"^DD",176.001,176.001,3,10)
+Piece 13 from RXNCONSO.RRF
+"^DD",176.001,176.001,3,21,0)
+^^254^254^3081226^
+"^DD",176.001,176.001,3,21,1,0)
+ TTY     (Term Type in Source)
+"^DD",176.001,176.001,3,21,2,0)
+ AA      Attribute type abbreviation
+"^DD",176.001,176.001,3,21,3,0)
+ AB      Abbreviation in any source vocabulary
+"^DD",176.001,176.001,3,21,4,0)
+ ACR     Acronym
+"^DD",176.001,176.001,3,21,5,0)
+ AC      Activities
+"^DD",176.001,176.001,3,21,6,0)
+ AD      Adjective
+"^DD",176.001,176.001,3,21,7,0)
+ AM      Short form of modifier
+"^DD",176.001,176.001,3,21,8,0)
+ AS      Attribute type synonym
+"^DD",176.001,176.001,3,21,9,0)
+ AT      Attribute type
+"^DD",176.001,176.001,3,21,10,0)
+ BD      Fully-specified drug brand name that can be prescribed
+"^DD",176.001,176.001,3,21,11,0)
+ BN      Fully-specified drug brand name that can not be prescribed
+"^DD",176.001,176.001,3,21,12,0)
+ BPCK    Branded Drug Delivery Device
+"^DD",176.001,176.001,3,21,13,0)
+ BSY     Broad synonym
+"^DD",176.001,176.001,3,21,14,0)
+ BioCPT  BioCarta PT
+"^DD",176.001,176.001,3,21,15,0)
+ CA2     ISO 3166-1 standard country code in alpha-2 (two-letter) format
+"^DD",176.001,176.001,3,21,16,0)
+ CA3     ISO 3166-1 standard country code in alpha-3 (three-letter) format
+"^DD",176.001,176.001,3,21,17,0)
+ CCN     Chemical code name
+"^DD",176.001,176.001,3,21,18,0)
+ CCS     FIPS 10-4 country code
+"^DD",176.001,176.001,3,21,19,0)
+ CC      Trimmed ICPC component process
+"^DD",176.001,176.001,3,21,20,0)
+ CDA     Clinical drug name in abbreviated format
+"^DD",176.001,176.001,3,21,21,0)
+ CDCPT   Centers for Disease Control and Prevention PT
+"^DD",176.001,176.001,3,21,22,0)
+ CDC     Clinical drug name in concatenated format (NDDF), Clinical drug 
+"^DD",176.001,176.001,3,21,23,0)
+         name (NDFRT)
+"^DD",176.001,176.001,3,21,24,0)
+ CDD     Clinical drug name in delimited format
+"^DD",176.001,176.001,3,21,25,0)
+ CDISCPT Clinical Data Interchange Standards Consortium PT
+"^DD",176.001,176.001,3,21,26,0)
+ CDISCSY Clinical Data Interchange Standards Consortium SY
+"^DD",176.001,176.001,3,21,27,0)
+ CD      Clinical Drug
+"^DD",176.001,176.001,3,21,28,0)
+ CE      Entry "term" to a Supplementary Concept "term"
+"^DD",176.001,176.001,3,21,29,0)
+ CHN     Chemical structure name
+"^DD",176.001,176.001,3,21,30,0)
+ CL      Class
+"^DD",176.001,176.001,3,21,31,0)
+ CMN     Common name
+"^DD",176.001,176.001,3,21,32,0)
+ CN      LOINC official component name
+"^DD",176.001,176.001,3,21,33,0)
+ CO      Component name (these are hierarchical terms, as opposed to the 
+"^DD",176.001,176.001,3,21,34,0)
+ LOINC component names which are analytes)
+"^DD",176.001,176.001,3,21,35,0)
+ CP      ICPC component process (in original form)
+"^DD",176.001,176.001,3,21,36,0)
+ CSN     Chemical Structure Name
+"^DD",176.001,176.001,3,21,37,0)
+ CS      Short component process in ICPC, i.e. include some abbreviations
+"^DD",176.001,176.001,3,21,38,0)
+ CTCAEPT Common Terminology Criteria for Adverse Events Preferred Term
+"^DD",176.001,176.001,3,21,39,0)
+ CU      Common usage
+"^DD",176.001,176.001,3,21,40,0)
+ CV      Content view
+"^DD",176.001,176.001,3,21,41,0)
+ CX      Component process in ICPC with abbreviations expanded
+"^DD",176.001,176.001,3,21,42,0)
+ DCPPT   Division of Cancer Prevention Program PT
+"^DD",176.001,176.001,3,21,43,0)
+ DCPSY   Division of Cancer Prevention Program Synonym
+"^DD",176.001,176.001,3,21,44,0)
+ DEV     Descriptor entry version
+"^DD",176.001,176.001,3,21,45,0)
+ DE      Descriptor
+"^DD",176.001,176.001,3,21,46,0)
+ DF      Dose Form
+"^DD",176.001,176.001,3,21,47,0)
+ DI      Disease name
+"^DD",176.001,176.001,3,21,48,0)
+ DN      Display Name
+"^DD",176.001,176.001,3,21,49,0)
+ DO      Domain
+"^DD",176.001,176.001,3,21,50,0)
+ DP      Drug Product
+"^DD",176.001,176.001,3,21,51,0)
+ DSV     Descriptor sort version
+"^DD",176.001,176.001,3,21,52,0)
+ DS      Short form of descriptor
+"^DD",176.001,176.001,3,21,53,0)
+ DTPPT   NCI Developmental Therapeutics Program Preferred Term
+"^DD",176.001,176.001,3,21,54,0)
+ DTPSY   Developmental Therapeutics Program SY
+"^DD",176.001,176.001,3,21,55,0)
+ DT      Definitional term, present in the Metathesaurus because of its 
+"^DD",176.001,176.001,3,21,56,0)
+         connection to a Dorland's definition or to a definition created 
+"^DD",176.001,176.001,3,21,57,0)
+         especially for the Metathesaurus
+"^DD",176.001,176.001,3,21,58,0)
+ DX      Diagnosis
+"^DD",176.001,176.001,3,21,59,0)
+ EN      MeSH nonprint entry "term"
+"^DD",176.001,176.001,3,21,60,0)
+ EP      Entry "term"
+"^DD",176.001,176.001,3,21,61,0)
+ EQ      Equivalent name
+"^DD",176.001,176.001,3,21,62,0)
+ ES      Short form of entry term
+"^DD",176.001,176.001,3,21,63,0)
+ ETAV    Entry Term Allelic Variant
+"^DD",176.001,176.001,3,21,64,0)
+ ET      Entry "term"
+"^DD",176.001,176.001,3,21,65,0)
+ EX      Expanded form of entry term
+"^DD",176.001,176.001,3,21,66,0)
+ FBD     Foreign brand name
+"^DD",176.001,176.001,3,21,67,0)
+ FDAAB   Food and Drug Administration AB
+"^DD",176.001,176.001,3,21,68,0)
+ FDAPT   Food and Drug Administration PT
+"^DD",176.001,176.001,3,21,69,0)
+ FDASY   Food and Drug Administration SY
+"^DD",176.001,176.001,3,21,70,0)
+ FI      Finding name
+"^DD",176.001,176.001,3,21,71,0)
+ FN      Full form of descriptor
+"^DD",176.001,176.001,3,21,72,0)
+ GN      Generic drug name
+"^DD",176.001,176.001,3,21,73,0)
+ GO      Goal
+"^DD",176.001,176.001,3,21,74,0)
+ GPCK    Generic Drug Delivery Device
+"^DD",176.001,176.001,3,21,75,0)
+ GT      Glossary "term"
+"^DD",176.001,176.001,3,21,76,0)
+ HC      Hierarchical class
+"^DD",176.001,176.001,3,21,77,0)
+ HD      Hierarchical descriptor
+"^DD",176.001,176.001,3,21,78,0)
+ HGJKN1  Japanese High Level Group Term (kana1)
+"^DD",176.001,176.001,3,21,79,0)
+ HGJKN   Japanese High Level Group Term (kana)
+"^DD",176.001,176.001,3,21,80,0)
+ HG      High Level Group Term
+"^DD",176.001,176.001,3,21,81,0)
+ HS      Short or alternate version of hierarchical term
+"^DD",176.001,176.001,3,21,82,0)
+ HTJKN1  Japanese Hierarchical term (kana1)
+"^DD",176.001,176.001,3,21,83,0)
+ HTJKN   Japanese Hierarchical term (kana)
+"^DD",176.001,176.001,3,21,84,0)
+ HTN     HL7 Table Name
+"^DD",176.001,176.001,3,21,85,0)
+ HT      Hierarchical term
+"^DD",176.001,176.001,3,21,86,0)
+ HX      Expanded version of short hierarchical term
+"^DD",176.001,176.001,3,21,87,0)
+ ID      Nursing indicator
+"^DD",176.001,176.001,3,21,88,0)
+ INP     Ingredient preparation
+"^DD",176.001,176.001,3,21,89,0)
+ IN      Name for an ingredient
+"^DD",176.001,176.001,3,21,90,0)
+ IS      Obsolete Synonym
+"^DD",176.001,176.001,3,21,91,0)
+ IT      Index "term", i.e., derived from the index to any non-MeSH source
+"^DD",176.001,176.001,3,21,92,0)
+         vocabulary
+"^DD",176.001,176.001,3,21,93,0)
+ IVC     Intervention categories
+"^DD",176.001,176.001,3,21,94,0)
+ IV      Intervention
+"^DD",176.001,176.001,3,21,95,0)
+ JAXPT   NCI Mouse Terminology PT
+"^DD",176.001,176.001,3,21,96,0)
+ JAXSY   NCI Mouse Terminology SY
+"^DD",176.001,176.001,3,21,97,0)
+ KEGGPT  Kyoto Encyclopedia of Genes and Genomes PT
+"^DD",176.001,176.001,3,21,98,0)
+ LN      LOINC official fully specified name
+"^DD",176.001,176.001,3,21,99,0)
+ LO      Obsolete official fully specified name
+"^DD",176.001,176.001,3,21,100,0)
+ LPDN    LOINC parts display name
+"^DD",176.001,176.001,3,21,101,0)
+ LPN     LOINC parts name
+"^DD",176.001,176.001,3,21,102,0)
+ LS      Expanded system/sample type (The expanded version was created for
+"^DD",176.001,176.001,3,21,103,0)
+         the Metathesaurus and includes the full name of some
+"^DD",176.001,176.001,3,21,104,0)
+         abbreviations.)
+"^DD",176.001,176.001,3,21,105,0)
+ LTJKN1  Japanese Lower Level Term (kana1)
+"^DD",176.001,176.001,3,21,106,0)
+ LTJKN   Japanese Lower Level Term (kana)
+"^DD",176.001,176.001,3,21,107,0)
+ LT      Lower Level Term
+"^DD",176.001,176.001,3,21,108,0)
+ LV      Lexical variant
+"^DD",176.001,176.001,3,21,109,0)
+ LX      Official fully specified name with expanded abbreviations
+"^DD",176.001,176.001,3,21,110,0)
+ MD      CCS multi-level diagnosis categories
+"^DD",176.001,176.001,3,21,111,0)
+ MH      Main heading
+"^DD",176.001,176.001,3,21,112,0)
+ MOA     Mechanism of action
+"^DD",176.001,176.001,3,21,113,0)
+ MP      Preferred names of modifiers
+"^DD",176.001,176.001,3,21,114,0)
+ MS      Multum names of branded and generic supplies or supplements
+"^DD",176.001,176.001,3,21,115,0)
+ MTH_AB  MTH abbreviation
+"^DD",176.001,176.001,3,21,116,0)
+ MTH_ACR MTH acronym
+"^DD",176.001,176.001,3,21,117,0)
+ MTH_BD  MTH fully-specified drug brand name that can be prescribed
+"^DD",176.001,176.001,3,21,118,0)
+ MTH_BSY Metathesaurus broad synonym expanded
+"^DD",176.001,176.001,3,21,119,0)
+ MTH_CHN MTH chemical structure name
+"^DD",176.001,176.001,3,21,120,0)
+ MTH_EP  MTH entry "term"
+"^DD",176.001,176.001,3,21,121,0)
+ MTH_FN  MTH Full form of descriptor
+"^DD",176.001,176.001,3,21,122,0)
+ MTH_HG  MTH High Level Group Term
+"^DD",176.001,176.001,3,21,123,0)
+ MTH_HT  MTH Hierarchical term
+"^DD",176.001,176.001,3,21,124,0)
+ MTH_ID  Metathesaurus expanded form of nursing indicator
+"^DD",176.001,176.001,3,21,125,0)
+ MTH_IS  Metathesaurus-supplied form of obsolete synonym
+"^DD",176.001,176.001,3,21,126,0)
+ MTH_LT  MTH Lower Level Term
+"^DD",176.001,176.001,3,21,127,0)
+ MTH_LV  MTH lexical variant
+"^DD",176.001,176.001,3,21,128,0)
+ MTH_MH  MTH main heading
+"^DD",176.001,176.001,3,21,129,0)
+ MTH_NPT MTH non-preferred for language term
+"^DD",176.001,176.001,3,21,130,0)
+ MTH_NSY Metathesaurus narrow synonym expanded
+"^DD",176.001,176.001,3,21,131,0)
+ MTH_OF  Metathesaurus-supplied form of obsolete fully specified name
+"^DD",176.001,176.001,3,21,132,0)
+ MTH_OL  MTH Non-current Lower Level Term
+"^DD",176.001,176.001,3,21,133,0)
+ MTH_OPN Metathesaurus obsolete preferred term, natural language form
+"^DD",176.001,176.001,3,21,134,0)
+ MTH_OP  Metathesaurus obsolete preferred term
+"^DD",176.001,176.001,3,21,135,0)
+ MTH_OS  MTH System-organ class
+"^DD",176.001,176.001,3,21,136,0)
+ MTH_PEP MTH preferred entry "term"
+"^DD",176.001,176.001,3,21,137,0)
+ MTH_PTGB        Metathesaurus-supplied form of British preferred term
+"^DD",176.001,176.001,3,21,138,0)
+ MTH_PTN Metathesaurus preferred term, natural language form
+"^DD",176.001,176.001,3,21,139,0)
+ MTH_PT  Metathesaurus preferred term
+"^DD",176.001,176.001,3,21,140,0)
+ MTH_RLS Metathesaurus related synonym expanded
+"^DD",176.001,176.001,3,21,141,0)
+ MTH_RXN_BD      RxNorm Created BD
+"^DD",176.001,176.001,3,21,142,0)
+ MTH_RXN_CD      RxNorm Created CD
+"^DD",176.001,176.001,3,21,143,0)
+ MTH_RXN_DP      RxNorm Created DP
+"^DD",176.001,176.001,3,21,144,0)
+ MTH_SI  MTH Sign or symptom of
+"^DD",176.001,176.001,3,21,145,0)
+ MTH_SMQ Metathesaurus version of Standardised MedDRA Query
+"^DD",176.001,176.001,3,21,146,0)
+ MTH_SYGB        Metathesaurus-supplied form of British synonym
+"^DD",176.001,176.001,3,21,147,0)
+ MTH_SY  MTH Designated synonym
+"^DD",176.001,176.001,3,21,148,0)
+ MV      Multi-level procedure category
+"^DD",176.001,176.001,3,21,149,0)
+ N1      Chemical Abstracts Service Type 1 name of a chemical
+"^DD",176.001,176.001,3,21,150,0)
+ NCI-GLOSSPT     NCI-GLOSS PT
+"^DD",176.001,176.001,3,21,151,0)
+ NCI-GLOSSSY     NCI-GLOSS SY
+"^DD",176.001,176.001,3,21,152,0)
+ NM      Supplementary chemical "term", a name of a substance
+"^DD",176.001,176.001,3,21,153,0)
+ NPT     HL7 non-preferred for language term
+"^DD",176.001,176.001,3,21,154,0)
+ NP      Non-preferred term
+"^DD",176.001,176.001,3,21,155,0)
+ NSY     Narrow synonym
+"^DD",176.001,176.001,3,21,156,0)
+ NS      Short form of non-preferred term
+"^DD",176.001,176.001,3,21,157,0)
+ NX      Expanded form of non-preferred term
+"^DD",176.001,176.001,3,21,158,0)
+ OAM     Obsolete Modifier Abbreviation
+"^DD",176.001,176.001,3,21,159,0)
+ OA      Obsolete abbreviation
+"^DD",176.001,176.001,3,21,160,0)
+ OBS     Obsolete broad synonym
+"^DD",176.001,176.001,3,21,161,0)
+ OB      Obsolete term
+"^DD",176.001,176.001,3,21,162,0)
+ OCD     Obsolete clinical drug
+"^DD",176.001,176.001,3,21,163,0)
+ OC      Nursing outcomes
+"^DD",176.001,176.001,3,21,164,0)
+ OF      Obsolete fully specified name
+"^DD",176.001,176.001,3,21,165,0)
+ OLJKN1  Japanese Non-current Lower Level Term (kana1)
+"^DD",176.001,176.001,3,21,166,0)
+ OLJKN   Japanese Non-current Lower Level Term (kana)
+"^DD",176.001,176.001,3,21,167,0)
+ OLX     Expanded LOINC obsolete fully specified name
+"^DD",176.001,176.001,3,21,168,0)
+ OL      Non-current Lower Level Term
+"^DD",176.001,176.001,3,21,169,0)
+ OM      Obsolete modifiers in HCPCS
+"^DD",176.001,176.001,3,21,170,0)
+ ONP     Obsolete non-preferred for language term
+"^DD",176.001,176.001,3,21,171,0)
+ ONS     Obsolete narrow synonym
+"^DD",176.001,176.001,3,21,172,0)
+ OOSN    Obsolete official short name
+"^DD",176.001,176.001,3,21,173,0)
+ OPN     Obsolete preferred term, natural language form
+"^DD",176.001,176.001,3,21,174,0)
+ OP      Obsolete preferred term
+"^DD",176.001,176.001,3,21,175,0)
+ ORS     Obsolete related synonym
+"^DD",176.001,176.001,3,21,176,0)
+ OR      Orders
+"^DD",176.001,176.001,3,21,177,0)
+ OSJKN1  Japanese System-organ class in the WHO Adverse Reaction 
+"^DD",176.001,176.001,3,21,178,0)
+         Terminology (kana1)
+"^DD",176.001,176.001,3,21,179,0)
+ OSJKN   Japanese System-organ class in the WHO Adverse Reaction 
+"^DD",176.001,176.001,3,21,180,0)
+         Terminology (kana)
+"^DD",176.001,176.001,3,21,181,0)
+ OSN     Official short name
+"^DD",176.001,176.001,3,21,182,0)
+ OS      System-organ class in the WHO Adverse Reaction Terminology
+"^DD",176.001,176.001,3,21,183,0)
+ OWL     rdf:ID of the owl class
+"^DD",176.001,176.001,3,21,184,0)
+ PCE     Preferred entry "term" to a Supplementary Concept "term"
+"^DD",176.001,176.001,3,21,185,0)
+ PC      Preferred "trimmed term" in ICPC
+"^DD",176.001,176.001,3,21,186,0)
+ PEN     Preferred MeSH nonprint entry "term"
+"^DD",176.001,176.001,3,21,187,0)
+ PEP     Preferred entry "term"
+"^DD",176.001,176.001,3,21,188,0)
+ PE      Physiologic effect
+"^DD",176.001,176.001,3,21,189,0)
+ PK      Pharmacokinetics
+"^DD",176.001,176.001,3,21,190,0)
+ PM      Machine permutation
+"^DD",176.001,176.001,3,21,191,0)
+ PN      Metathesaurus preferred name
+"^DD",176.001,176.001,3,21,192,0)
+ PQ      Qualifier for a problem
+"^DD",176.001,176.001,3,21,193,0)
+ PR      Name of a problem
+"^DD",176.001,176.001,3,21,194,0)
+ PSC     Protocol selection criteria
+"^DD",176.001,176.001,3,21,195,0)
+ PS      Short forms that needed full specification
+"^DD",176.001,176.001,3,21,196,0)
+ PTAV    Preferred Allelic Variant
+"^DD",176.001,176.001,3,21,197,0)
+ PTCS    Preferred Clinical Synopsis
+"^DD",176.001,176.001,3,21,198,0)
+ PTGB    British preferred term
+"^DD",176.001,176.001,3,21,199,0)
+ PTJKN1  Japanese Designated preferred name (kana1)
+"^DD",176.001,176.001,3,21,200,0)
+ PTJKN   Japanese Designated preferred name (kana)
+"^DD",176.001,176.001,3,21,201,0)
+ PTN     Preferred term, natural language form
+"^DD",176.001,176.001,3,21,202,0)
+ PT      Designated preferred name
+"^DD",176.001,176.001,3,21,203,0)
+ PXQ     Preferred term in preferred qualifier concept.
+"^DD",176.001,176.001,3,21,204,0)
+ PX      Expanded preferred terms (pair with PS)
+"^DD",176.001,176.001,3,21,205,0)
+ QAB     Qualifier abbreviation
+"^DD",176.001,176.001,3,21,206,0)
+ QEV     Qualifier entry version
+"^DD",176.001,176.001,3,21,207,0)
+ QSV     Qualifier sort version
+"^DD",176.001,176.001,3,21,208,0)
+ RAB     Root abbreviation
+"^DD",176.001,176.001,3,21,209,0)
+ RENIDN  Registry Nomenclature Information Display Name
+"^DD",176.001,176.001,3,21,210,0)
+ RHT     Root hierarchical term
+"^DD",176.001,176.001,3,21,211,0)
+ RLS     Related synonym
+"^DD",176.001,176.001,3,21,212,0)
+ RPT     Root preferred term
+"^DD",176.001,176.001,3,21,213,0)
+ RSY     Root synonym
+"^DD",176.001,176.001,3,21,214,0)
+ RS      Extracted related names in SNOMED2
+"^DD",176.001,176.001,3,21,215,0)
+ RT      Designated related "term"
+"^DD",176.001,176.001,3,21,216,0)
+ SBDC    Semantic Branded Drug Component
+"^DD",176.001,176.001,3,21,217,0)
+ SBDF    Semantic branded drug and form
+"^DD",176.001,176.001,3,21,218,0)
+ SBD     Semantic branded drug
+"^DD",176.001,176.001,3,21,219,0)
+ SB      Named subset of a source
+"^DD",176.001,176.001,3,21,220,0)
+ SCALE   Scale
+"^DD",176.001,176.001,3,21,221,0)
+ SCDC    Semantic Drug Component
+"^DD",176.001,176.001,3,21,222,0)
+ SCDF    Semantic clinical drug and form
+"^DD",176.001,176.001,3,21,223,0)
+ SCD     Semantic Clinical Drug
+"^DD",176.001,176.001,3,21,224,0)
+ SCN     Scientific name
+"^DD",176.001,176.001,3,21,225,0)
+ SC      Special Category term
+"^DD",176.001,176.001,3,21,226,0)
+ SD      CCS single-level diagnosis categories
+"^DD",176.001,176.001,3,21,227,0)
+ SI      Name of a sign or symptom of a problem
+"^DD",176.001,176.001,3,21,228,0)
+ SMQ     Standardised MedDRA Query
+"^DD",176.001,176.001,3,21,229,0)
+ SN      Official component synonym in LOINC
+"^DD",176.001,176.001,3,21,230,0)
+ SP      CCS single-level procedure categories
+"^DD",176.001,176.001,3,21,231,0)
+ SSN     Source short name, used in the UMLS Knowledge Source Server
+"^DD",176.001,176.001,3,21,232,0)
+ SS      Synonymous "short" forms
+"^DD",176.001,176.001,3,21,233,0)
+ ST      Step
+"^DD",176.001,176.001,3,21,234,0)
+ SU      Active Substance
+"^DD",176.001,176.001,3,21,235,0)
+ SX      Mixed-case component synonym with expanded abbreviations
+"^DD",176.001,176.001,3,21,236,0)
+ SYGB    British synonym
+"^DD",176.001,176.001,3,21,237,0)
+ SYN     Designated alias
+"^DD",176.001,176.001,3,21,238,0)
+ SY      Designated synonym
+"^DD",176.001,176.001,3,21,239,0)
+ TA      Task
+"^DD",176.001,176.001,3,21,240,0)
+ TC      Term class
+"^DD",176.001,176.001,3,21,241,0)
+ TG      Name of the target of an intervention
+"^DD",176.001,176.001,3,21,242,0)
+ TQ      Topical qualifier
+"^DD",176.001,176.001,3,21,243,0)
+ TX      CCPSS synthesized problems for TC termgroup
+"^DD",176.001,176.001,3,21,244,0)
+ UCN     Unique common name
+"^DD",176.001,176.001,3,21,245,0)
+ UE      Unique equivalent name
+"^DD",176.001,176.001,3,21,246,0)
+ USN     Unique scientific name
+"^DD",176.001,176.001,3,21,247,0)
+ USY     Unique synonym
+"^DD",176.001,176.001,3,21,248,0)
+ VAB     Versioned abbreviation
+"^DD",176.001,176.001,3,21,249,0)
+ VPT     Versioned preferred term
+"^DD",176.001,176.001,3,21,250,0)
+ VSY     Versioned synonym
+"^DD",176.001,176.001,3,21,251,0)
+ XD      Expanded descriptor in AOD
+"^DD",176.001,176.001,3,21,252,0)
+ XM      Cross mapping set
+"^DD",176.001,176.001,3,21,253,0)
+ XQ      Alternate name for a qualifier
+"^DD",176.001,176.001,3,21,254,0)
+ XX      Expanded string
+"^DD",176.001,176.001,3,"DT")
+3110725
+"^DD",176.001,176.001,4,0)
+CODE^F^^0;5^K:$L(X)>30!($L(X)<1) X
+"^DD",176.001,176.001,4,.1)
+Most useful identifier. See Description.
+"^DD",176.001,176.001,4,1,0)
+^.1^^0
+"^DD",176.001,176.001,4,3)
+Code for the entry
+"^DD",176.001,176.001,4,10)
+Piece 14 from RXNCONSO.RRF
+"^DD",176.001,176.001,4,21,0)
+^^3^3^3081116^
+"^DD",176.001,176.001,4,21,1,0)
+"Most useful" source asserted identifier (if the source vocabulary has 
+"^DD",176.001,176.001,4,21,2,0)
+more than one identifier), or a Metathesaurus-generated source entry 
+"^DD",176.001,176.001,4,21,3,0)
+identifier (if the source vocabulary has none.)
+"^DD",176.001,176.001,4,"DT")
+3110722
+"^DD",176.001,176.001,5,0)
+STR^176.0015^^1;0
+"^DD",176.001,176.0015,0)
+STR SUB-FIELD^^.01^1
+"^DD",176.001,176.0015,0,"NM","STR")
+
+"^DD",176.001,176.0015,0,"UP")
+176.001
+"^DD",176.001,176.0015,.01,0)
+STR^W^^0;1
+"^DD",176.001,176.0015,.01,.1)
+String
+"^DD",176.001,176.0015,.01,3)
+Expanded Name of the Entry
+"^DD",176.001,176.0015,.01,10)
+Piece 15 from RXNCONSO.RRF
+"^DD",176.001,176.0015,.01,"DT")
+3081218
+"^DD",176.002,176.002,0)
+FIELD^^.01^2
+"^DD",176.002,176.002,0,"DDA")
+N
+"^DD",176.002,176.002,0,"DT")
+3090122
+"^DD",176.002,176.002,0,"ID",2)
+W "   ",$P(^(0),U,3)
+"^DD",176.002,176.002,0,"IX","B",176.002,.01)
+
+"^DD",176.002,176.002,0,"IX","NDC",176.002,2)
+
+"^DD",176.002,176.002,0,"NM","RXNORM NDC TO RXCUI")
+
+"^DD",176.002,176.002,.01,0)
+RXCUI^RF^^0;1^K:$L(X)>8!($L(X)<1)!'(X?.N) X
+"^DD",176.002,176.002,.01,.1)
+RxNorm Concept Unique ID
+"^DD",176.002,176.002,.01,1,0)
+^.1
+"^DD",176.002,176.002,.01,1,1,0)
+176.002^B
+"^DD",176.002,176.002,.01,1,1,1)
+S ^C0CRXN(176.002,"B",$E(X,1,30),DA)=""
+"^DD",176.002,176.002,.01,1,1,2)
+K ^C0CRXN(176.002,"B",$E(X,1,30),DA)
+"^DD",176.002,176.002,.01,3)
+RXCUI (RxNorm) Number
+"^DD",176.002,176.002,.01,10)
+Piece 1 of RXNSAT.RRF
+"^DD",176.002,176.002,.01,"DT")
+3090215
+"^DD",176.002,176.002,2,0)
+NDC^F^^0;3^K:$L(X)>11!($L(X)<9)!'(X?9.11N) X
+"^DD",176.002,176.002,2,.1)
+National Drug Code
+"^DD",176.002,176.002,2,1,0)
+^.1
+"^DD",176.002,176.002,2,1,1,0)
+176.002^NDC
+"^DD",176.002,176.002,2,1,1,1)
+S ^C0CRXN(176.002,"NDC",$E(X,1,30),DA)=""
+"^DD",176.002,176.002,2,1,1,2)
+K ^C0CRXN(176.002,"NDC",$E(X,1,30),DA)
+"^DD",176.002,176.002,2,1,1,"DT")
+3090215
+"^DD",176.002,176.002,2,3)
+NDC number, normal 11 digit form without dashes
+"^DD",176.002,176.002,2,10)
+Piece 11 of RXNSAB.RRF when filtered for NDC.*RXNORM
+"^DD",176.002,176.002,2,"DT")
+3090215
+"^DD",176.003,176.003,0)
+FIELD^^14^9
+"^DD",176.003,176.003,0,"DDA")
+N
+"^DD",176.003,176.003,0,"DT")
+3091103
+"^DD",176.003,176.003,0,"ID",4)
+W "   ",$P(^(0),U,4)
+"^DD",176.003,176.003,0,"ID",7)
+W:$D(^(1)) "   ",$P(^(1),U,1)
+"^DD",176.003,176.003,0,"IX","B",176.003,.01)
+
+"^DD",176.003,176.003,0,"IX","B",176.003,4)
+
+"^DD",176.003,176.003,0,"NM","RXNORM SOURCES")
+
+"^DD",176.003,176.003,.01,0)
+VCUI^RF^^0;1^K:$L(X)>8!($L(X)<3)!'(X'?1P.E) X
+"^DD",176.003,176.003,.01,.1)
+Versioned CUI
+"^DD",176.003,176.003,.01,1,0)
+^.1
+"^DD",176.003,176.003,.01,1,1,0)
+176.003^B
+"^DD",176.003,176.003,.01,1,1,1)
+S ^C0CRXN(176.003,"B",$E(X,1,30),DA)=""
+"^DD",176.003,176.003,.01,1,1,2)
+K ^C0CRXN(176.003,"B",$E(X,1,30),DA)
+"^DD",176.003,176.003,.01,3)
+
+"^DD",176.003,176.003,.01,10)
+Piece 1 from RXNSAB.RRF
+"^DD",176.003,176.003,.01,"DT")
+3081226
+"^DD",176.003,176.003,2,0)
+RCUI^F^^0;2^K:$L(X)>8!($L(X)<1) X
+"^DD",176.003,176.003,2,.1)
+Root CUI
+"^DD",176.003,176.003,2,10)
+Piece 2 from RXNSAB.RRF
+"^DD",176.003,176.003,2,"DT")
+3081226
+"^DD",176.003,176.003,3,0)
+VSAB^F^^0;3^K:$L(X)>20!($L(X)<1) X
+"^DD",176.003,176.003,3,.1)
+Versioned Source Abbreviation
+"^DD",176.003,176.003,3,10)
+Piece 3 from RXNSAB.RRF
+"^DD",176.003,176.003,3,"DT")
+3081226
+"^DD",176.003,176.003,4,0)
+RSAB^F^^0;4^K:$L(X)>20!($L(X)<1) X
+"^DD",176.003,176.003,4,.1)
+Root Source Abbreviation
+"^DD",176.003,176.003,4,1,0)
+^.1
+"^DD",176.003,176.003,4,1,1,0)
+176.003^B^MNEMONIC
+"^DD",176.003,176.003,4,1,1,1)
+S:'$D(^C0CRXN(176.003,"B",$E(X,1,30),DA)) ^(DA)=1
+"^DD",176.003,176.003,4,1,1,2)
+I $D(^C0CRXN(176.003,"B",$E(X,1,30),DA)),^(DA) K ^(DA)
+"^DD",176.003,176.003,4,1,1,"DT")
+3081226
+"^DD",176.003,176.003,4,10)
+Piece 4 of RXNSAB.RRF
+"^DD",176.003,176.003,4,"DT")
+3081230
+"^DD",176.003,176.003,5,0)
+SON^F^^0;5^K:$L(X)>150!($L(X)<1) X
+"^DD",176.003,176.003,5,.1)
+Official Name
+"^DD",176.003,176.003,5,10)
+Piece 5 from RXNSAB.RRF
+"^DD",176.003,176.003,5,"DT")
+3081226
+"^DD",176.003,176.003,6,0)
+SF^F^^0;6^K:$L(X)>20!($L(X)<1) X
+"^DD",176.003,176.003,6,.1)
+Source Family
+"^DD",176.003,176.003,6,10)
+Piece 6 from RXNSAB.RRF
+"^DD",176.003,176.003,6,"DT")
+3081226
+"^DD",176.003,176.003,7,0)
+SVER^F^^1;1^K:$L(X)>20!($L(X)<1) X
+"^DD",176.003,176.003,7,.1)
+Source Version
+"^DD",176.003,176.003,7,10)
+Piece 7 from RXNSAB.RRF
+"^DD",176.003,176.003,7,"DT")
+3081226
+"^DD",176.003,176.003,14,0)
+SRL^S^0:No Restrictions;1:Translation and derivatites are not allowed;2:Use only for Product Development;3:Very restircted use;4:SNOMED license;^1;2^Q
+"^DD",176.003,176.003,14,.1)
+Source Restriction Level
+"^DD",176.003,176.003,14,3)
+Enter one of the choices
+"^DD",176.003,176.003,14,10)
+http://wwwcf.nlm.nih.gov/umlslicense/snomed/license.cfm
+"^DD",176.003,176.003,14,21,0)
+^^117^117^3091103^
+"^DD",176.003,176.003,14,21,1,0)
+This is the source restriction level of the vocabulary source. Here is 
+"^DD",176.003,176.003,14,21,2,0)
+the text, verbatim, copied from 
+"^DD",176.003,176.003,14,21,3,0)
+http://wwwcf.nlm.nih.gov/umlslicense/snomed/license.cfm on 3 November 
+"^DD",176.003,176.003,14,21,4,0)
+2009.
+"^DD",176.003,176.003,14,21,5,0)
+ 
+"^DD",176.003,176.003,14,21,6,0)
+For material in the UMLS Metathesaurus obtained from some sources 
+"^DD",176.003,176.003,14,21,7,0)
+additional restrictions on LICENSEE's use may apply. The categories of 
+"^DD",176.003,176.003,14,21,8,0)
+additional restrictions are described below. The list of UMLS 
+"^DD",176.003,176.003,14,21,9,0)
+Metathesaurus Vocabulary Sources, which is part of this Agreement and is 
+"^DD",176.003,176.003,14,21,10,0)
+updated when each version of the Metathesaurus is released, indicates the 
+"^DD",176.003,176.003,14,21,11,0)
+category of additional restrictions, if any, that apply to each 
+"^DD",176.003,176.003,14,21,12,0)
+vocabulary source.
+"^DD",176.003,176.003,14,21,13,0)
+ 
+"^DD",176.003,176.003,14,21,14,0)
+LICENSEE should contact the copyright holder directly to discuss uses of 
+"^DD",176.003,176.003,14,21,15,0)
+a source vocabulary beyond those allowed under this license agreement. If 
+"^DD",176.003,176.003,14,21,16,0)
+LICENSEE or LICENSEE's end user has a separate agreement with the 
+"^DD",176.003,176.003,14,21,17,0)
+copyright holder for use of a UMLS Metathesaurus source vocabulary, 
+"^DD",176.003,176.003,14,21,18,0)
+LICENSEE or LICENSEE's end user may use vocabulary source content 
+"^DD",176.003,176.003,14,21,19,0)
+obtained from the UMLS Metathesaurus in accordance with the terms of the 
+"^DD",176.003,176.003,14,21,20,0)
+separate agreement.
+"^DD",176.003,176.003,14,21,21,0)
+ 
+"^DD",176.003,176.003,14,21,22,0)
+12. 1. Category 1:
+"^DD",176.003,176.003,14,21,23,0)
+ 
+"^DD",176.003,176.003,14,21,24,0)
+LICENSEE is prohibited from translating the vocabulary source into 
+"^DD",176.003,176.003,14,21,25,0)
+another language or from producing other derivative works based on this 
+"^DD",176.003,176.003,14,21,26,0)
+single vocabulary source.
+"^DD",176.003,176.003,14,21,27,0)
+ 
+"^DD",176.003,176.003,14,21,28,0)
+12. 2. Category 2:
+"^DD",176.003,176.003,14,21,29,0)
+ 
+"^DD",176.003,176.003,14,21,30,0)
+All category 1 restrictions AND
+"^DD",176.003,176.003,14,21,31,0)
+ 
+"^DD",176.003,176.003,14,21,32,0)
+LICENSEE is prohibited from using the vocabulary source in operational 
+"^DD",176.003,176.003,14,21,33,0)
+applications that create records or information containing data from the 
+"^DD",176.003,176.003,14,21,34,0)
+vocabulary source. Use for data creation research or product development 
+"^DD",176.003,176.003,14,21,35,0)
+is allowed.
+"^DD",176.003,176.003,14,21,36,0)
+ 
+"^DD",176.003,176.003,14,21,37,0)
+12. 3. Category 3:
+"^DD",176.003,176.003,14,21,38,0)
+ 
+"^DD",176.003,176.003,14,21,39,0)
+LICENSEE's right to use material from the source vocabulary is restricted 
+"^DD",176.003,176.003,14,21,40,0)
+to internal use at the LICENSEE's site(s) for research, product 
+"^DD",176.003,176.003,14,21,41,0)
+development, and statistical analysis only. Internal use includes use by 
+"^DD",176.003,176.003,14,21,42,0)
+employees, faculty, and students of a single institution at multiple 
+"^DD",176.003,176.003,14,21,43,0)
+sites. Notwithstanding the foregoing, use by students is limited to doing 
+"^DD",176.003,176.003,14,21,44,0)
+research under the direct supervision of faculty. Internal research, 
+"^DD",176.003,176.003,14,21,45,0)
+product development, and statistical analysis use expressly excludes: use 
+"^DD",176.003,176.003,14,21,46,0)
+of material from these copyrighted sources in routine patient data 
+"^DD",176.003,176.003,14,21,47,0)
+creation; incorporation of material from these copyrighted sources in any 
+"^DD",176.003,176.003,14,21,48,0)
+publicly accessible computer-based information system or public 
+"^DD",176.003,176.003,14,21,49,0)
+electronic bulletin board including the Internet; publishing or 
+"^DD",176.003,176.003,14,21,50,0)
+translating or creating derivative works from material from these 
+"^DD",176.003,176.003,14,21,51,0)
+copyrighted sources; selling, leasing, licensing, or otherwise making 
+"^DD",176.003,176.003,14,21,52,0)
+available material from these copyrighted works to any unauthorized 
+"^DD",176.003,176.003,14,21,53,0)
+party; and copying for any purpose except for back up or archival 
+"^DD",176.003,176.003,14,21,54,0)
+purposes.
+"^DD",176.003,176.003,14,21,55,0)
+ 
+"^DD",176.003,176.003,14,21,56,0)
+LICENSEE may be required to display special copyright, patent and/or 
+"^DD",176.003,176.003,14,21,57,0)
+trademark notices before displaying content from the vocabulary source. 
+"^DD",176.003,176.003,14,21,58,0)
+Applicable notices are included in the list of UMLS Metathesaurus 
+"^DD",176.003,176.003,14,21,59,0)
+Vocabulary sources, that is part of this Agreement.
+"^DD",176.003,176.003,14,21,60,0)
+ 
+"^DD",176.003,176.003,14,21,61,0)
+12. 4. Category 4:
+"^DD",176.003,176.003,14,21,62,0)
+ 
+"^DD",176.003,176.003,14,21,63,0)
+    12.4.1. LICENSEE is prohibited from translating the vocabulary source 
+"^DD",176.003,176.003,14,21,64,0)
+into another language or from altering the vocabulary source content. 
+"^DD",176.003,176.003,14,21,65,0)
+ 
+"^DD",176.003,176.003,14,21,66,0)
+ 
+"^DD",176.003,176.003,14,21,67,0)
+    12.4.2. LICENSEE's right to use the vocabulary source is restricted 
+"^DD",176.003,176.003,14,21,68,0)
+to use in the U.S. by LICENSEE's employees, contractors, faculty, 
+"^DD",176.003,176.003,14,21,69,0)
+students, clients, patients, or constituents within electronic systems or 
+"^DD",176.003,176.003,14,21,70,0)
+devices built, purchased, licensed, or used by LICENSEE for U.S. 
+"^DD",176.003,176.003,14,21,71,0)
+governmental purposes or for any health care, public health, research, 
+"^DD",176.003,176.003,14,21,72,0)
+educational, or statistical use in the U.S. Use by students is limited to 
+"^DD",176.003,176.003,14,21,73,0)
+research or educational activities under the direct supervision of 
+"^DD",176.003,176.003,14,21,74,0)
+faculty. 
+"^DD",176.003,176.003,14,21,75,0)
+ 
+"^DD",176.003,176.003,14,21,76,0)
+ 
+"^DD",176.003,176.003,14,21,77,0)
+    12.4.3. LICENSEE has the right to distribute the vocabulary source in 
+"^DD",176.003,176.003,14,21,78,0)
+the U.S., but only in combination with other UMLS Metathesaurus content. 
+"^DD",176.003,176.003,14,21,79,0)
+Further, LICENSEE's right to distribute is restricted to: 
+"^DD",176.003,176.003,14,21,80,0)
+ 
+"^DD",176.003,176.003,14,21,81,0)
+ 
+"^DD",176.003,176.003,14,21,82,0)
+       1. Electronic distribution to LICENSEE's direct U.S. affiliates, 
+"^DD",176.003,176.003,14,21,83,0)
+or to other U.S. entities that have signed the UMLS license, in order to 
+"^DD",176.003,176.003,14,21,84,0)
+facilitate use of the vocabulary for health care, public health, 
+"^DD",176.003,176.003,14,21,85,0)
+research, educational or statistical purposes in the U.S. only.
+"^DD",176.003,176.003,14,21,86,0)
+ 
+"^DD",176.003,176.003,14,21,87,0)
+             1. LICENSEE must take reasonable precautions to prevent 
+"^DD",176.003,176.003,14,21,88,0)
+distribution of the vocabulary source to non-US entities.
+"^DD",176.003,176.003,14,21,89,0)
+ 
+"^DD",176.003,176.003,14,21,90,0)
+             2. LICENSEE must include in its annual report a list of all 
+"^DD",176.003,176.003,14,21,91,0)
+U.S. affiliates or other U.S. entities to whom it has distributed content 
+"^DD",176.003,176.003,14,21,92,0)
+from the vocabulary source.
+"^DD",176.003,176.003,14,21,93,0)
+ 
+"^DD",176.003,176.003,14,21,94,0)
+       2. Distribution of encoded patient level data sets or knowledge 
+"^DD",176.003,176.003,14,21,95,0)
+encoded in the vocabulary source by LICENSEE to any U.S. entity for use 
+"^DD",176.003,176.003,14,21,96,0)
+in the U.S. only.
+"^DD",176.003,176.003,14,21,97,0)
+       3. Inclusion of encoded records or content from the vocabulary 
+"^DD",176.003,176.003,14,21,98,0)
+source in: (1) free publicly accessible retrieval systems or (2) 
+"^DD",176.003,176.003,14,21,99,0)
+fee-based retrieval systems that are accessible within the U.S. only, 
+"^DD",176.003,176.003,14,21,100,0)
+provided that these systems do not permit users to copy or extract any 
+"^DD",176.003,176.003,14,21,101,0)
+significant portion of the vocabulary source.
+"^DD",176.003,176.003,14,21,102,0)
+ 
+"^DD",176.003,176.003,14,21,103,0)
+ 
+"^DD",176.003,176.003,14,21,104,0)
+    12.4.4. DEFINITIONS
+"^DD",176.003,176.003,14,21,105,0)
+ 
+"^DD",176.003,176.003,14,21,106,0)
+ 
+"^DD",176.003,176.003,14,21,107,0)
+       1. U.S. is defined as all U.S. states, territories, and the 
+"^DD",176.003,176.003,14,21,108,0)
+District of Columbia; any U.S. government facility or office, whether 
+"^DD",176.003,176.003,14,21,109,0)
+permanent or temporary, wherever located; and access to a system in any 
+"^DD",176.003,176.003,14,21,110,0)
+of these locations by U.S. government employees, designated 
+"^DD",176.003,176.003,14,21,111,0)
+representatives or contractors, wherever located, for U.S. government 
+"^DD",176.003,176.003,14,21,112,0)
+purposes.
+"^DD",176.003,176.003,14,21,113,0)
+ 
+"^DD",176.003,176.003,14,21,114,0)
+       2. U.S. entity is defined as (i) for government entities, an 
+"^DD",176.003,176.003,14,21,115,0)
+agency or department of the U.S. Government, (ii) for corporations, as a 
+"^DD",176.003,176.003,14,21,116,0)
+corporation incorporated and operating in the U.S.; and (iii) for other 
+"^DD",176.003,176.003,14,21,117,0)
+entities as an entity organized under the laws of the U.S.
+"^DD",176.003,176.003,14,"DT")
+3091103
+"^DD",176.003,176.003,25,0)
+SCIT^176.0031^^2;0
+"^DD",176.003,176.0031,0)
+SCIT SUB-FIELD^^.01^1
+"^DD",176.003,176.0031,0,"DT")
+3081226
+"^DD",176.003,176.0031,0,"NM","SCIT")
+
+"^DD",176.003,176.0031,0,"UP")
+176.003
+"^DD",176.003,176.0031,.01,0)
+SCIT^W^^0;1
+"^DD",176.003,176.0031,.01,.1)
+Source Citation
+"^DD",176.003,176.0031,.01,10)
+Piece 25 from RXNSAB.RRF
+"^DD",176.003,176.0031,.01,"DT")
+3081226
+"^DIC",176.001,176.001,0)
+RXNORM CONCEPTS^176.001
+"^DIC",176.001,176.001,0,"GL")
+^C0CRXN(176.001,
+"^DIC",176.001,176.001,"%",0)
+^1.005^^0
+"^DIC",176.001,176.001,"%D",0)
+^^63^63^3130404^
+"^DIC",176.001,176.001,"%D",1,0)
+Licensed under Apache 2.0.
+"^DIC",176.001,176.001,"%D",2,0)
+ 
+"^DIC",176.001,176.001,"%D",3,0)
+This file is the result of the import of selected fields from the RxNorm 
+"^DIC",176.001,176.001,"%D",4,0)
+database Concepts file (RXNCONSO.RRF). The ones with "*" are included in 
+"^DIC",176.001,176.001,"%D",5,0)
+this file.
+"^DIC",176.001,176.001,"%D",6,0)
+ 
+"^DIC",176.001,176.001,"%D",7,0)
+        Col.    Description
+"^DIC",176.001,176.001,"%D",8,0)
+       *RXCUI   RxNorm Unique identifier for concept (concept ID)
+"^DIC",176.001,176.001,"%D",9,0)
+        LAT     Language of Term
+"^DIC",176.001,176.001,"%D",10,0)
+        TS      Term status
+"^DIC",176.001,176.001,"%D",11,0)
+        LUI     Unique identifier for term (no value provided)
+"^DIC",176.001,176.001,"%D",12,0)
+        STT     String type
+"^DIC",176.001,176.001,"%D",13,0)
+        SUI     Unique identifier for string (no value provided)
+"^DIC",176.001,176.001,"%D",14,0)
+        ISPREF  Atom status - preferred (Y) or not (N) for this string 
+"^DIC",176.001,176.001,"%D",15,0)
+within this concept
+"^DIC",176.001,176.001,"%D",16,0)
+       *RXAUI   Unique identifier for atom (RxNorm Atom ID)
+"^DIC",176.001,176.001,"%D",17,0)
+        SAUI    Source asserted atom identifier [optional]
+"^DIC",176.001,176.001,"%D",18,0)
+        SCUI    Source asserted concept identifier [optional]
+"^DIC",176.001,176.001,"%D",19,0)
+        SDUI    Source asserted descriptor identifier [optional] (no 
+"^DIC",176.001,176.001,"%D",20,0)
+value provided)
+"^DIC",176.001,176.001,"%D",21,0)
+       *SAB     Source abbreviation
+"^DIC",176.001,176.001,"%D",22,0)
+       *TTY     Term type in source
+"^DIC",176.001,176.001,"%D",23,0)
+       *CODE    "Most useful" source asserted identifier (if the source 
+"^DIC",176.001,176.001,"%D",24,0)
+vocabulary has more than one identifier), or a Metathesaurus-generated 
+"^DIC",176.001,176.001,"%D",25,0)
+source entry identifier (if the source vocabulary has none.)
+"^DIC",176.001,176.001,"%D",26,0)
+       *STR     String
+"^DIC",176.001,176.001,"%D",27,0)
+        SRL     Source Restriction Level (no value provided)
+"^DIC",176.001,176.001,"%D",28,0)
+        SUPPRESS        Suppressible flag. Values = E, Y, N, or O. E - 
+"^DIC",176.001,176.001,"%D",29,0)
+Specific Individual names (atoms ) set as suppressible by Metathesaurus 
+"^DIC",176.001,176.001,"%D",30,0)
+editors. These names were determined to lack face validity and are likely 
+"^DIC",176.001,176.001,"%D",31,0)
+to be harmful in most applications. Y - Currently suppressible by Source 
+"^DIC",176.001,176.001,"%D",32,0)
+and Term Type(SAB/TTY), as set in MetamorphoSys at the Suppressibility 
+"^DIC",176.001,176.001,"%D",33,0)
+Tab. The default SAB/TTY selections have been identified as unlikely to 
+"^DIC",176.001,176.001,"%D",34,0)
+be useful in most applications. N - not suppressible Default 
+"^DIC",176.001,176.001,"%D",35,0)
+suppressibility as determined by NLM (i.e., no changes at the 
+"^DIC",176.001,176.001,"%D",36,0)
+Suppressibility tab in MetamorphoSys) should be used by most users, but 
+"^DIC",176.001,176.001,"%D",37,0)
+may not be suitable in some specialized applications. O - Specific 
+"^DIC",176.001,176.001,"%D",38,0)
+Individual names (atoms) set as Obsolete because the name is no longer 
+"^DIC",176.001,176.001,"%D",39,0)
+provided by the original source. See the MetamorphoSys documentation 
+"^DIC",176.001,176.001,"%D",40,0)
+(Section 6) for information on how to change the SAB/TTY suppressibility 
+"^DIC",176.001,176.001,"%D",41,0)
+to suit your requirements. NLM strongly recommends that users not alter 
+"^DIC",176.001,176.001,"%D",42,0)
+editor-assigned suppressibility, and MetamorphoSys cannot be used for 
+"^DIC",176.001,176.001,"%D",43,0)
+this purpose.
+"^DIC",176.001,176.001,"%D",44,0)
+        CVF     Content view flag
+"^DIC",176.001,176.001,"%D",45,0)
+ 
+"^DIC",176.001,176.001,"%D",46,0)
+RxNorm can be found at http://www.nlm.nih.gov/research/umls/rxnorm/
+"^DIC",176.001,176.001,"%D",47,0)
+ 
+"^DIC",176.001,176.001,"%D",48,0)
+RxNorm is updated monthly.
+"^DIC",176.001,176.001,"%D",49,0)
+ 
+"^DIC",176.001,176.001,"%D",50,0)
+This file is part of the CCD/CCR Extraction from Vista/RPMS Project being 
+"^DIC",176.001,176.001,"%D",51,0)
+run by WorldVista. This file was produced by Sam Habiel on November 16,
+"^DIC",176.001,176.001,"%D",52,0)
+2008.
+"^DIC",176.001,176.001,"%D",53,0)
+ 
+"^DIC",176.001,176.001,"%D",54,0)
+This file will be used to translate VUIDs stored in various Drug files
+"^DIC",176.001,176.001,"%D",55,0)
+and GMRA allergies file to RxNorm and (potentially) SNOMED codes.
+"^DIC",176.001,176.001,"%D",56,0)
+The source for VUIDs are any entries containing the Source vocabulary of 
+"^DIC",176.001,176.001,"%D",57,0)
+VANDF. The code that accompanies such an entry is the VUID. The first 
+"^DIC",176.001,176.001,"%D",58,0)
+field of such an entry is always the RxNorm Concept ID. Term type can be
+"^DIC",176.001,176.001,"%D",59,0)
+one of many numerous values. All possible values are stored under the TTY
+"^DIC",176.001,176.001,"%D",60,0)
+field definition. Most common ones include IN for Ingredient, PT for
+"^DIC",176.001,176.001,"%D",61,0)
+Preferred Term, FN for Fullname of descriptor, CD for Clinical Drug, AB
+"^DIC",176.001,176.001,"%D",62,0)
+for Abbreviation. The Code is whatever code is stored depending on the
+"^DIC",176.001,176.001,"%D",63,0)
+coding system. Under VANDF, the VUID is the code.
+"^DIC",176.001,"B","RXNORM CONCEPTS",176.001)
+
+"^DIC",176.002,176.002,0)
+RXNORM NDC TO RXCUI^176.002
+"^DIC",176.002,176.002,0,"GL")
+^C0CRXN(176.002,
+"^DIC",176.002,176.002,"%",0)
+^1.005^^0
+"^DIC",176.002,176.002,"%D",0)
+^^62^62^3130404^
+"^DIC",176.002,176.002,"%D",1,0)
+Licensed under Apache 2.0.
+"^DIC",176.002,176.002,"%D",2,0)
+ 
+"^DIC",176.002,176.002,"%D",3,0)
+This file is part of the CCD/CCR Extraction from Vista/RPMS Project being 
+"^DIC",176.002,176.002,"%D",4,0)
+run by WorldVista. This file was produced by Sam Habiel on December 26,
+"^DIC",176.002,176.002,"%D",5,0)
+2008.
+"^DIC",176.002,176.002,"%D",6,0)
+ 
+"^DIC",176.002,176.002,"%D",7,0)
+This file will be used to get RxNorm if only the NDC number is available.
+"^DIC",176.002,176.002,"%D",8,0)
+This is currently the case in the RPMS database. The original file is
+"^DIC",176.002,176.002,"%D",9,0)
+RxNorm Simple Concept and Atom Attributes file (RXNSAT.RRF). Most of the
+"^DIC",176.002,176.002,"%D",10,0)
+entries are not imported; only those entries whose Attribute Name (ATN,
+"^DIC",176.002,176.002,"%D",11,0)
+piece 9) is NDC and whose source (SAB, piece 10) is RXNORM are imported.
+"^DIC",176.002,176.002,"%D",12,0)
+The filtering is done by the mumps import code.
+"^DIC",176.002,176.002,"%D",13,0)
+ 
+"^DIC",176.002,176.002,"%D",14,0)
+Here's a complete description of RXNSAT.RRF file from RxNorm (Note that 
+"^DIC",176.002,176.002,"%D",15,0)
+only fields prefixed by * are actually imported into the File Manager):
+"^DIC",176.002,176.002,"%D",16,0)
+ 
+"^DIC",176.002,176.002,"%D",17,0)
+This file follows the general format of the MRSAT.RRF file of the
+"^DIC",176.002,176.002,"%D",18,0)
+Metathesaurus. Some of the Metathesaurus fields are not provided by 
+"^DIC",176.002,176.002,"%D",19,0)
+RxNorm and are marked as "(no value provided)". There is exactly one row 
+"^DIC",176.002,176.002,"%D",20,0)
+in this table for each concept, atom, or relationship attribute that does 
+"^DIC",176.002,176.002,"%D",21,0)
+not have a sub-element structure. Not all RxNorm concepts or RxNorm 
+"^DIC",176.002,176.002,"%D",22,0)
+relationships have entries in this file. This file includes all source 
+"^DIC",176.002,176.002,"%D",23,0)
+vocabulary attributes that do not fit into other categories.
+"^DIC",176.002,176.002,"%D",24,0)
+ 
+"^DIC",176.002,176.002,"%D",25,0)
+        Col.    Description
+"^DIC",176.002,176.002,"%D",26,0)
+        *RXCUI   Unique identifier for concept (concept id)
+"^DIC",176.002,176.002,"%D",27,0)
+        LUI     Unique identifier for term (no value provided)
+"^DIC",176.002,176.002,"%D",28,0)
+        SUI     Unique identifier for string (no value provided)
+"^DIC",176.002,176.002,"%D",29,0)
+        RXAUI   Unique identifier for atom (RxNorm Atom ID)
+"^DIC",176.002,176.002,"%D",30,0)
+        STYPE   The name of the column in RXNCONSO.RRF or RXNREL.RRF that 
+"^DIC",176.002,176.002,"%D",31,0)
+                contains the identifier to which the attribute is
+"^DIC",176.002,176.002,"%D",32,0)
+                attached, e.g., CUI, AUI.
+"^DIC",176.002,176.002,"%D",33,0)
+        CODE    "Most useful" source asserted identifier (if the source 
+"^DIC",176.002,176.002,"%D",34,0)
+                vocabulary contains more than one).
+"^DIC",176.002,176.002,"%D",35,0)
+        ATUI    Unique identifier for attribute
+"^DIC",176.002,176.002,"%D",36,0)
+        SATUI   Source asserted attribute identifier (optional - present 
+"^DIC",176.002,176.002,"%D",37,0)
+                if it exists)
+"^DIC",176.002,176.002,"%D",38,0)
+        ATN     Attribute name. Possible values appear in RXNDOC.RRF and 
+"^DIC",176.002,176.002,"%D",39,0)
+                are described in Appendix B.2 of the Metathesaurus
+"^DIC",176.002,176.002,"%D",40,0)
+                documentation
+"^DIC",176.002,176.002,"%D",41,0)
+        SAB     Abbreviation of the source of the attribute. Possible 
+"^DIC",176.002,176.002,"%D",42,0)
+                values appear in RXNSAB.RRF and are listed in Appendix B.4
+"^DIC",176.002,176.002,"%D",43,0)
+                of the Metathesaurus documentation
+"^DIC",176.002,176.002,"%D",44,0)
+        *ATV    Attribute value described under specific attribute name 
+"^DIC",176.002,176.002,"%D",45,0)
+                in Appendix B.2. of the Metathesaurus documentation. A
+"^DIC",176.002,176.002,"%D",46,0)
+                few attribute values exceed 1,000 characters. Many of the
+"^DIC",176.002,176.002,"%D",47,0)
+                abbreviations used in attribute values are explained in
+"^DIC",176.002,176.002,"%D",48,0)
+                RXNDOC.RRF and included in Appendix B.3. of the
+"^DIC",176.002,176.002,"%D",49,0)
+                Metathesaurus documentation
+"^DIC",176.002,176.002,"%D",50,0)
+ 
+"^DIC",176.002,176.002,"%D",51,0)
+        SUPPRESS        Suppressible flag. Values = E, Y, or N. Reflects 
+"^DIC",176.002,176.002,"%D",52,0)
+                the suppressible status of the attribute; not yet in use.
+"^DIC",176.002,176.002,"%D",53,0)
+                See also SUPPRESS in MRCONSO.RRF and MRDEF.RRF and
+"^DIC",176.002,176.002,"%D",54,0)
+                MRREL.RRF of the Metathesaurus documentation.
+"^DIC",176.002,176.002,"%D",55,0)
+        CVF     Content view flag
+"^DIC",176.002,176.002,"%D",56,0)
+ 
+"^DIC",176.002,176.002,"%D",57,0)
+In summary the file is an import of RXNSAT.RRF filtered by ATN="NDC" and 
+"^DIC",176.002,176.002,"%D",58,0)
+SAB="RXNORM". Imported fields are RXCUI and ATV (= NDC).
+"^DIC",176.002,176.002,"%D",59,0)
+ 
+"^DIC",176.002,176.002,"%D",60,0)
+RxNorm can be found at http://www.nlm.nih.gov/research/umls/rxnorm/ 
+"^DIC",176.002,176.002,"%D",61,0)
+ 
+"^DIC",176.002,176.002,"%D",62,0)
+RxNorm is updated monthly.
+"^DIC",176.002,"B","RXNORM NDC TO RXCUI",176.002)
+
+"^DIC",176.003,176.003,0)
+RXNORM SOURCES^176.003
+"^DIC",176.003,176.003,0,"GL")
+^C0CRXN(176.003,
+"^DIC",176.003,176.003,"%",0)
+^1.005^^0
+"^DIC",176.003,176.003,"%D",0)
+^^53^53^3130404^
+"^DIC",176.003,176.003,"%D",1,0)
+Licensed under Apache 2.0.  
+"^DIC",176.003,176.003,"%D",2,0)
+ 
+"^DIC",176.003,176.003,"%D",3,0)
+This file is part of the CCD/CCR Extraction from Vista/RPMS Project being 
+"^DIC",176.003,176.003,"%D",4,0)
+run by WorldVista. This file was produced by Sam Habiel on December 26,
+"^DIC",176.003,176.003,"%D",5,0)
+2008.  
+"^DIC",176.003,176.003,"%D",6,0)
+ 
+"^DIC",176.003,176.003,"%D",7,0)
+This file will be used to get RxNorm and VUID versions when 
+"^DIC",176.003,176.003,"%D",8,0)
+reporting codes in the CCD/CCR.
+"^DIC",176.003,176.003,"%D",9,0)
+ 
+"^DIC",176.003,176.003,"%D",10,0)
+The original file is RXNSAB.RRF. Below is the description by RxNorm. Only the fields prefixed with * have been imported.
+"^DIC",176.003,176.003,"%D",11,0)
+All rows from the file are imported (only about 10).
+"^DIC",176.003,176.003,"%D",12,0)
+ 
+"^DIC",176.003,176.003,"%D",13,0)
+ Field  Full Name       Description
+"^DIC",176.003,176.003,"%D",14,0)
+ -----  -------------   --------------------------
+"^DIC",176.003,176.003,"%D",15,0)
+ *VCUI  CUI             CUI of the versioned SRC concept for a source
+"^DIC",176.003,176.003,"%D",16,0)
+ *RCUI  Root CUI        CUI of the root SRC concept for a source
+"^DIC",176.003,176.003,"%D",17,0)
+ *VSAB  Versioned Source Abbreviation   The versioned source abbreviation for a source, e.g., NDDF_2004_11_03
+"^DIC",176.003,176.003,"%D",18,0)
+ *RSAB  Root Source Abbreviation        The root source abbreviation, for a source e.g. NDDF
+"^DIC",176.003,176.003,"%D",19,0)
+ *SON   Official Name   The official name for a source
+"^DIC",176.003,176.003,"%D",20,0)
+ *SF    Source Family   The Source Family for a source
+"^DIC",176.003,176.003,"%D",21,0)
+ *SVER  Version         The source version, e.g., 2001
+"^DIC",176.003,176.003,"%D",22,0)
+ VSTART Meta Start Date The date a source became active, e.g., 2001_04_03
+"^DIC",176.003,176.003,"%D",23,0)
+ VEND   Meta End Date   The date a source ceased to be active, e.g., 2001_05_10
+"^DIC",176.003,176.003,"%D",24,0)
+ IMETA  Meta Insert Version     The version of the Metathesaurus a source first appeared, e.g., 2001AB
+"^DIC",176.003,176.003,"%D",25,0)
+ RMETA  Meta Remove Version     The version of the Metathesaurus a source was removed, e.g., 2001AC
+"^DIC",176.003,176.003,"%D",26,0)
+ SLC    Source License Contact  The source license contact information. A semi-colon separated list containing the following 
+"^DIC",176.003,176.003,"%D",27,0)
+        fields: Name; Title; Organization; Address 1; Address 2; City; State or Province; Country; Zip or Postal Code; Telephone;
+"^DIC",176.003,176.003,"%D",28,0)
+        Contact Fax; Email; URL
+"^DIC",176.003,176.003,"%D",29,0)
+ SCC    Source Content Contact  The source content contact information. A semi-colon separated list containing the following 
+"^DIC",176.003,176.003,"%D",30,0)
+        fields: Name; Title; Organization; Address 1; Address 2; City; State or Province; Country; Zip or Postal Code; Telephone;
+"^DIC",176.003,176.003,"%D",31,0)
+        Contact Fax; Email; URL
+"^DIC",176.003,176.003,"%D",32,0)
+ SRL    Source Restriction Level        0,1,2,3,4 - explained in the License Agreement.
+"^DIC",176.003,176.003,"%D",33,0)
+ TFR    Term Frequency  The number of terms for this source in RXNCONSO.RRF, e.g., 12343 (not implemented yet)
+"^DIC",176.003,176.003,"%D",34,0)
+ CFR    CUI Frequency   The number of CUIs associated with this source, e.g., 10234 (not implemented yet)
+"^DIC",176.003,176.003,"%D",35,0)
+ CXTY   Context Type    The type of relationship label (section 2.3.2 of Metathesaurus documentation)
+"^DIC",176.003,176.003,"%D",36,0)
+ TTYL   Term Type List  Term type list from source, e.g., MH,EN,PM,TQ
+"^DIC",176.003,176.003,"%D",37,0)
+ ATNL   Attribute Name List     The attribute name list, e.g., MUI,RN,TH,...
+"^DIC",176.003,176.003,"%D",38,0)
+ LAT    Language        The language of the terms in the source
+"^DIC",176.003,176.003,"%D",39,0)
+ CENC   Character Encoding      Character set as specified by the IANA official names for character assignments 
+"^DIC",176.003,176.003,"%D",40,0)
+        http://www.iana.org/assignments/character-sets
+"^DIC",176.003,176.003,"%D",41,0)
+ CURVER Current Version         A Y or N flag indicating whether or not this row corresponds to the current version of the 
+"^DIC",176.003,176.003,"%D",42,0)
+        named source
+"^DIC",176.003,176.003,"%D",43,0)
+ SABIN  Source in Subset        A Y or N flag indicating whether or not this row is represented in the current MetamorphoSys 
+"^DIC",176.003,176.003,"%D",44,0)
+        subset. Initially always Y where CURVER is Y, but later is recomputed by MetamorphoSys.
+"^DIC",176.003,176.003,"%D",45,0)
+ SSN    Source short name       The short name of a source as used by the NLM Knowledge Source Server.
+"^DIC",176.003,176.003,"%D",46,0)
+ *SCIT  Source citation         Citation information for a source. A semi-colon separated list containing the following fields: 
+"^DIC",176.003,176.003,"%D",47,0)
+        Author(s); Author(s) address; Author(s) organization; Editor(s); Title; Content Designator; Medium Designator; Edition;
+"^DIC",176.003,176.003,"%D",48,0)
+        Place of Publication; Publisher; Date of Publication/copyright; Date of revision; Location; Extent; Series; Availability
+"^DIC",176.003,176.003,"%D",49,0)
+        Statement (URL); Language; Notes
+"^DIC",176.003,176.003,"%D",50,0)
+ 
+"^DIC",176.003,176.003,"%D",51,0)
+ RxNorm can be found at http://www.nlm.nih.gov/research/umls/rxnorm/ 
+"^DIC",176.003,176.003,"%D",52,0)
+  
+"^DIC",176.003,176.003,"%D",53,0)
+ RxNorm is updated monthly.  
+"^DIC",176.003,"B","RXNORM SOURCES",176.003)
+
+**END**
+**END**
