@@ -1,0 +1,1636 @@
+KIDS Distribution saved on Aug 23, 2018@14:58:44
+Plan 6 Release 0.1a
+**KIDS**:PLAN 6 0.1^
+
+**INSTALL NAME**
+PLAN 6 0.1
+"BLD",10872,0)
+PLAN 6 0.1^^0^3180823^y
+"BLD",10872,4,0)
+^9.64PA^^
+"BLD",10872,6.3)
+1
+"BLD",10872,"INIT")
+POST^OSEP6P
+"BLD",10872,"KRN",0)
+^9.67PA^779.2^20
+"BLD",10872,"KRN",.4,0)
+.4
+"BLD",10872,"KRN",.401,0)
+.401
+"BLD",10872,"KRN",.402,0)
+.402
+"BLD",10872,"KRN",.403,0)
+.403
+"BLD",10872,"KRN",.5,0)
+.5
+"BLD",10872,"KRN",.84,0)
+.84
+"BLD",10872,"KRN",3.6,0)
+3.6
+"BLD",10872,"KRN",3.8,0)
+3.8
+"BLD",10872,"KRN",9.2,0)
+9.2
+"BLD",10872,"KRN",9.8,0)
+9.8
+"BLD",10872,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",10872,"KRN",9.8,"NM",1,0)
+XWBTCPM^^0^B58898886
+"BLD",10872,"KRN",9.8,"NM",2,0)
+XWBRW^^0^B22045415
+"BLD",10872,"KRN",9.8,"NM",3,0)
+ZISTCPS^^0^B17756179
+"BLD",10872,"KRN",9.8,"NM","B","XWBRW",2)
+
+"BLD",10872,"KRN",9.8,"NM","B","XWBTCPM",1)
+
+"BLD",10872,"KRN",9.8,"NM","B","ZISTCPS",3)
+
+"BLD",10872,"KRN",19,0)
+19
+"BLD",10872,"KRN",19.1,0)
+19.1
+"BLD",10872,"KRN",101,0)
+101
+"BLD",10872,"KRN",409.61,0)
+409.61
+"BLD",10872,"KRN",771,0)
+771
+"BLD",10872,"KRN",779.2,0)
+779.2
+"BLD",10872,"KRN",870,0)
+870
+"BLD",10872,"KRN",8989.51,0)
+8989.51
+"BLD",10872,"KRN",8989.52,0)
+8989.52
+"BLD",10872,"KRN",8994,0)
+8994
+"BLD",10872,"KRN","B",.4,.4)
+
+"BLD",10872,"KRN","B",.401,.401)
+
+"BLD",10872,"KRN","B",.402,.402)
+
+"BLD",10872,"KRN","B",.403,.403)
+
+"BLD",10872,"KRN","B",.5,.5)
+
+"BLD",10872,"KRN","B",.84,.84)
+
+"BLD",10872,"KRN","B",3.6,3.6)
+
+"BLD",10872,"KRN","B",3.8,3.8)
+
+"BLD",10872,"KRN","B",9.2,9.2)
+
+"BLD",10872,"KRN","B",9.8,9.8)
+
+"BLD",10872,"KRN","B",19,19)
+
+"BLD",10872,"KRN","B",19.1,19.1)
+
+"BLD",10872,"KRN","B",101,101)
+
+"BLD",10872,"KRN","B",409.61,409.61)
+
+"BLD",10872,"KRN","B",771,771)
+
+"BLD",10872,"KRN","B",779.2,779.2)
+
+"BLD",10872,"KRN","B",870,870)
+
+"BLD",10872,"KRN","B",8989.51,8989.51)
+
+"BLD",10872,"KRN","B",8989.52,8989.52)
+
+"BLD",10872,"KRN","B",8994,8994)
+
+"BLD",10872,"PRE")
+OSEP6P
+"BLD",10872,"QUES",0)
+^9.62^^
+"INIT")
+POST^OSEP6P
+"MBREQ")
+0
+"PRE")
+OSEP6P
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+4
+"RTN","OSEP6P")
+0^^B3780265508
+"RTN","OSEP6P",1,0)
+OSEP6P ; OSE/SMH - Install Plan 6 changes into VistA plus update intro text ;2018-08-23  2:57 PM
+"RTN","OSEP6P",2,0)
+ ;;0.1;PLAN 6;;;Build 1
+"RTN","OSEP6P",3,0)
+ ;
+"RTN","OSEP6P",4,0)
+ENV  ; [KIDS Environment Check]
+"RTN","OSEP6P",5,0)
+ I $ZV'["GT.M" S XPDQUIT=1
+"RTN","OSEP6P",6,0)
+ I $TR($$VERSION^%ZOSV(),"-")<6.3001 S XPDQUIT=1
+"RTN","OSEP6P",7,0)
+ QUIT
+"RTN","OSEP6P",8,0)
+ ;
+"RTN","OSEP6P",9,0)
+POST ; [KIDS Post install]
+"RTN","OSEP6P",10,0)
+ D PATCH^ZTMGRSET(10003)
+"RTN","OSEP6P",11,0)
+ ;
+"RTN","OSEP6P",12,0)
+ ; Add Markus Kühn's UTF-8 Test to the Intro Message
+"RTN","OSEP6P",13,0)
+ N L S L=$O(^XTV(8989.3,1,"INTRO"," "),-1)+1
+"RTN","OSEP6P",14,0)
+ N I F I=1:1 S T=$T(TEXT+I) Q:T["<<END>>"  S ^XTV(8989.3,1,"INTRO",L,0)=$P(T,";;",2,99),L=L+1
+"RTN","OSEP6P",15,0)
+ QUIT
+"RTN","OSEP6P",16,0)
+ ;
+"RTN","OSEP6P",17,0)
+TEXT ;
+"RTN","OSEP6P",18,0)
+ ;;UTF-8 encoded sample plain-text file
+"RTN","OSEP6P",19,0)
+ ;;‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+"RTN","OSEP6P",20,0)
+ ;;
+"RTN","OSEP6P",21,0)
+ ;;Markus Kuhn [ˈmaʳkʊs kuːn] <http://www.cl.cam.ac.uk/~mgk25/> — 2002-07-25 CC BY
+"RTN","OSEP6P",22,0)
+ ;;
+"RTN","OSEP6P",23,0)
+ ;;
+"RTN","OSEP6P",24,0)
+ ;;The ASCII compatible UTF-8 encoding used in this plain-text file
+"RTN","OSEP6P",25,0)
+ ;;is defined in Unicode, ISO 10646-1, and RFC 2279.
+"RTN","OSEP6P",26,0)
+ ;;
+"RTN","OSEP6P",27,0)
+ ;;
+"RTN","OSEP6P",28,0)
+ ;;Using Unicode/UTF-8, you can write in emails and source code things such as
+"RTN","OSEP6P",29,0)
+ ;;
+"RTN","OSEP6P",30,0)
+ ;;Mathematics and sciences:
+"RTN","OSEP6P",31,0)
+ ;;
+"RTN","OSEP6P",32,0)
+ ;;  ∮ E⋅da = Q,  n → ∞, ∑ f(i) = ∏ g(i),      ⎧⎡⎛┌─────┐⎞⎤⎫
+"RTN","OSEP6P",33,0)
+ ;;                                            ⎪⎢⎜│a²+b³ ⎟⎥⎪
+"RTN","OSEP6P",34,0)
+ ;;  ∀x∈ℝ: ⌈x⌉ = −⌊−x⌋, α ∧ ¬β = ¬(¬α ∨ β),    ⎪⎢⎜│───── ⎟⎥⎪
+"RTN","OSEP6P",35,0)
+ ;;                                            ⎪⎢⎜⎷ c₈   ⎟⎥⎪
+"RTN","OSEP6P",36,0)
+ ;;  ℕ ⊆ ℕ₀ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ,                   ⎨⎢⎜       ⎟⎥⎬
+"RTN","OSEP6P",37,0)
+ ;;                                            ⎪⎢⎜ ∞     ⎟⎥⎪
+"RTN","OSEP6P",38,0)
+ ;;  ⊥ < a ≠ b ≡ c ≤ d ≪ ⊤ ⇒ (⟦A⟧ ⇔ ⟪B⟫),      ⎪⎢⎜ ⎲     ⎟⎥⎪
+"RTN","OSEP6P",39,0)
+ ;;                                            ⎪⎢⎜ ⎳aⁱ-bⁱ⎟⎥⎪
+"RTN","OSEP6P",40,0)
+ ;;  2H₂ + O₂ ⇌ 2H₂O, R = 4.7 kΩ, ⌀ 200 mm     ⎩⎣⎝i=1    ⎠⎦⎭
+"RTN","OSEP6P",41,0)
+ ;;
+"RTN","OSEP6P",42,0)
+ ;;Linguistics and dictionaries:
+"RTN","OSEP6P",43,0)
+ ;;
+"RTN","OSEP6P",44,0)
+ ;;  ði ıntəˈnæʃənəl fəˈnɛtık əsoʊsiˈeıʃn
+"RTN","OSEP6P",45,0)
+ ;;  Y [ˈʏpsilɔn], Yen [jɛn], Yoga [ˈjoːgɑ]
+"RTN","OSEP6P",46,0)
+ ;;
+"RTN","OSEP6P",47,0)
+ ;;APL:
+"RTN","OSEP6P",48,0)
+ ;;
+"RTN","OSEP6P",49,0)
+ ;;  ((V⍳V)=⍳⍴V)/V←,V    ⌷←⍳→⍴∆∇⊃‾⍎⍕⌈
+"RTN","OSEP6P",50,0)
+ ;;
+"RTN","OSEP6P",51,0)
+ ;;Nicer typography in plain text files:
+"RTN","OSEP6P",52,0)
+ ;;
+"RTN","OSEP6P",53,0)
+ ;;  ╔══════════════════════════════════════════╗
+"RTN","OSEP6P",54,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",55,0)
+ ;;  ║   • ‘single’ and “double” quotes         ║
+"RTN","OSEP6P",56,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",57,0)
+ ;;  ║   • Curly apostrophes: “We’ve been here” ║
+"RTN","OSEP6P",58,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",59,0)
+ ;;  ║   • Latin-1 apostrophe and accents: '´`  ║
+"RTN","OSEP6P",60,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",61,0)
+ ;;  ║   • ‚deutsche‘ „Anführungszeichen“       ║
+"RTN","OSEP6P",62,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",63,0)
+ ;;  ║   • †, ‡, ‰, •, 3–4, —, −5/+5, ™, …      ║
+"RTN","OSEP6P",64,0)
+ ;;  ║                                          ║
+"RTN","OSEP6P",65,0)
+ ;;  ║   • ASCII safety test: 1lI|, 0OD, 8B     ║
+"RTN","OSEP6P",66,0)
+ ;;  ║                      ╭─────────╮         ║
+"RTN","OSEP6P",67,0)
+ ;;  ║   • the euro symbol: │ 14.95 € │         ║
+"RTN","OSEP6P",68,0)
+ ;;  ║                      ╰─────────╯         ║
+"RTN","OSEP6P",69,0)
+ ;;  ╚══════════════════════════════════════════╝
+"RTN","OSEP6P",70,0)
+ ;;
+"RTN","OSEP6P",71,0)
+ ;;Combining characters:
+"RTN","OSEP6P",72,0)
+ ;;
+"RTN","OSEP6P",73,0)
+ ;;  STARGΛ̊TE SG-1, a = v̇ = r̈, a⃑ ⊥ b⃑
+"RTN","OSEP6P",74,0)
+ ;;
+"RTN","OSEP6P",75,0)
+ ;;Greek (in Polytonic):
+"RTN","OSEP6P",76,0)
+ ;;
+"RTN","OSEP6P",77,0)
+ ;;  The Greek anthem:
+"RTN","OSEP6P",78,0)
+ ;;
+"RTN","OSEP6P",79,0)
+ ;;  Σὲ γνωρίζω ἀπὸ τὴν κόψη
+"RTN","OSEP6P",80,0)
+ ;;  τοῦ σπαθιοῦ τὴν τρομερή,
+"RTN","OSEP6P",81,0)
+ ;;  σὲ γνωρίζω ἀπὸ τὴν ὄψη
+"RTN","OSEP6P",82,0)
+ ;;  ποὺ μὲ βία μετράει τὴ γῆ.
+"RTN","OSEP6P",83,0)
+ ;;
+"RTN","OSEP6P",84,0)
+ ;;  ᾿Απ᾿ τὰ κόκκαλα βγαλμένη
+"RTN","OSEP6P",85,0)
+ ;;  τῶν ῾Ελλήνων τὰ ἱερά
+"RTN","OSEP6P",86,0)
+ ;;  καὶ σὰν πρῶτα ἀνδρειωμένη
+"RTN","OSEP6P",87,0)
+ ;;  χαῖρε, ὦ χαῖρε, ᾿Ελευθεριά!
+"RTN","OSEP6P",88,0)
+ ;;
+"RTN","OSEP6P",89,0)
+ ;;  From a speech of Demosthenes in the 4th century BC:
+"RTN","OSEP6P",90,0)
+ ;;
+"RTN","OSEP6P",91,0)
+ ;;  Οὐχὶ ταὐτὰ παρίσταταί μοι γιγνώσκειν, ὦ ἄνδρες ᾿Αθηναῖοι,
+"RTN","OSEP6P",92,0)
+ ;;  ὅταν τ᾿ εἰς τὰ πράγματα ἀποβλέψω καὶ ὅταν πρὸς τοὺς
+"RTN","OSEP6P",93,0)
+ ;;  λόγους οὓς ἀκούω· τοὺς μὲν γὰρ λόγους περὶ τοῦ
+"RTN","OSEP6P",94,0)
+ ;;  τιμωρήσασθαι Φίλιππον ὁρῶ γιγνομένους, τὰ δὲ πράγματ᾿
+"RTN","OSEP6P",95,0)
+ ;;  εἰς τοῦτο προήκοντα,  ὥσθ᾿ ὅπως μὴ πεισόμεθ᾿ αὐτοὶ
+"RTN","OSEP6P",96,0)
+ ;;  πρότερον κακῶς σκέψασθαι δέον. οὐδέν οὖν ἄλλο μοι δοκοῦσιν
+"RTN","OSEP6P",97,0)
+ ;;  οἱ τὰ τοιαῦτα λέγοντες ἢ τὴν ὑπόθεσιν, περὶ ἧς βουλεύεσθαι,
+"RTN","OSEP6P",98,0)
+ ;;  οὐχὶ τὴν οὖσαν παριστάντες ὑμῖν ἁμαρτάνειν. ἐγὼ δέ, ὅτι μέν
+"RTN","OSEP6P",99,0)
+ ;;  ποτ᾿ ἐξῆν τῇ πόλει καὶ τὰ αὑτῆς ἔχειν ἀσφαλῶς καὶ Φίλιππον
+"RTN","OSEP6P",100,0)
+ ;;  τιμωρήσασθαι, καὶ μάλ᾿ ἀκριβῶς οἶδα· ἐπ᾿ ἐμοῦ γάρ, οὐ πάλαι
+"RTN","OSEP6P",101,0)
+ ;;  γέγονεν ταῦτ᾿ ἀμφότερα· νῦν μέντοι πέπεισμαι τοῦθ᾿ ἱκανὸν
+"RTN","OSEP6P",102,0)
+ ;;  προλαβεῖν ἡμῖν εἶναι τὴν πρώτην, ὅπως τοὺς συμμάχους
+"RTN","OSEP6P",103,0)
+ ;;  σώσομεν. ἐὰν γὰρ τοῦτο βεβαίως ὑπάρξῃ, τότε καὶ περὶ τοῦ
+"RTN","OSEP6P",104,0)
+ ;;  τίνα τιμωρήσεταί τις καὶ ὃν τρόπον ἐξέσται σκοπεῖν· πρὶν δὲ
+"RTN","OSEP6P",105,0)
+ ;;  τὴν ἀρχὴν ὀρθῶς ὑποθέσθαι, μάταιον ἡγοῦμαι περὶ τῆς
+"RTN","OSEP6P",106,0)
+ ;;  τελευτῆς ὁντινοῦν ποιεῖσθαι λόγον.
+"RTN","OSEP6P",107,0)
+ ;;
+"RTN","OSEP6P",108,0)
+ ;;  Δημοσθένους, Γ´ ᾿Ολυνθιακὸς
+"RTN","OSEP6P",109,0)
+ ;;
+"RTN","OSEP6P",110,0)
+ ;;Georgian:
+"RTN","OSEP6P",111,0)
+ ;;
+"RTN","OSEP6P",112,0)
+ ;;  From a Unicode conference invitation:
+"RTN","OSEP6P",113,0)
+ ;;
+"RTN","OSEP6P",114,0)
+ ;;  გთხოვთ ახლავე გაიაროთ რეგისტრაცია Unicode-ის მეათე საერთაშორისო
+"RTN","OSEP6P",115,0)
+ ;;  კონფერენციაზე დასასწრებად, რომელიც გაიმართება 10-12 მარტს,
+"RTN","OSEP6P",116,0)
+ ;;  ქ. მაინცში, გერმანიაში. კონფერენცია შეჰკრებს ერთად მსოფლიოს
+"RTN","OSEP6P",117,0)
+ ;;  ექსპერტებს ისეთ დარგებში როგორიცაა ინტერნეტი და Unicode-ი,
+"RTN","OSEP6P",118,0)
+ ;;  ინტერნაციონალიზაცია და ლოკალიზაცია, Unicode-ის გამოყენება
+"RTN","OSEP6P",119,0)
+ ;;  ოპერაციულ სისტემებსა, და გამოყენებით პროგრამებში, შრიფტებში,
+"RTN","OSEP6P",120,0)
+ ;;  ტექსტების დამუშავებასა და მრავალენოვან კომპიუტერულ სისტემებში.
+"RTN","OSEP6P",121,0)
+ ;;
+"RTN","OSEP6P",122,0)
+ ;;Russian:
+"RTN","OSEP6P",123,0)
+ ;;
+"RTN","OSEP6P",124,0)
+ ;;  From a Unicode conference invitation:
+"RTN","OSEP6P",125,0)
+ ;;
+"RTN","OSEP6P",126,0)
+ ;;  Зарегистрируйтесь сейчас на Десятую Международную Конференцию по
+"RTN","OSEP6P",127,0)
+ ;;  Unicode, которая состоится 10-12 марта 1997 года в Майнце в Германии.
+"RTN","OSEP6P",128,0)
+ ;;  Конференция соберет широкий круг экспертов по  вопросам глобального
+"RTN","OSEP6P",129,0)
+ ;;  Интернета и Unicode, локализации и интернационализации, воплощению и
+"RTN","OSEP6P",130,0)
+ ;;  применению Unicode в различных операционных системах и программных
+"RTN","OSEP6P",131,0)
+ ;;  приложениях, шрифтах, верстке и многоязычных компьютерных системах.
+"RTN","OSEP6P",132,0)
+ ;;
+"RTN","OSEP6P",133,0)
+ ;;Thai (UCS Level 2):
+"RTN","OSEP6P",134,0)
+ ;;
+"RTN","OSEP6P",135,0)
+ ;;  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese
+"RTN","OSEP6P",136,0)
+ ;;  classic 'San Gua'):
+"RTN","OSEP6P",137,0)
+ ;;
+"RTN","OSEP6P",138,0)
+ ;;  [----------------------------|------------------------]
+"RTN","OSEP6P",139,0)
+ ;;    ๏ แผ่นดินฮั่นเสื่อมโทรมแสนสังเวช  พระปกเกศกองบู๊กู้ขึ้นใหม่
+"RTN","OSEP6P",140,0)
+ ;;  สิบสองกษัตริย์ก่อนหน้าแลถัดไป       สององค์ไซร้โง่เขลาเบาปัญญา
+"RTN","OSEP6P",141,0)
+ ;;    ทรงนับถือขันทีเป็นที่พึ่ง           บ้านเมืองจึงวิปริตเป็นนักหนา
+"RTN","OSEP6P",142,0)
+ ;;  โฮจิ๋นเรียกทัพทั่วหัวเมืองมา         หมายจะฆ่ามดชั่วตัวสำคัญ
+"RTN","OSEP6P",143,0)
+ ;;    เหมือนขับไสไล่เสือจากเคหา      รับหมาป่าเข้ามาเลยอาสัญ
+"RTN","OSEP6P",144,0)
+ ;;  ฝ่ายอ้องอุ้นยุแยกให้แตกกัน          ใช้สาวนั้นเป็นชนวนชื่นชวนใจ
+"RTN","OSEP6P",145,0)
+ ;;    พลันลิฉุยกุยกีกลับก่อเหตุ          ช่างอาเพศจริงหนาฟ้าร้องไห้
+"RTN","OSEP6P",146,0)
+ ;;  ต้องรบราฆ่าฟันจนบรรลัย           ฤๅหาใครค้ำชูกู้บรรลังก์ ฯ
+"RTN","OSEP6P",147,0)
+ ;;
+"RTN","OSEP6P",148,0)
+ ;;  (The above is a two-column text. If combining characters are handled
+"RTN","OSEP6P",149,0)
+ ;;  correctly, the lines of the second column should be aligned with the
+"RTN","OSEP6P",150,0)
+ ;;  | character above.)
+"RTN","OSEP6P",151,0)
+ ;;
+"RTN","OSEP6P",152,0)
+ ;;Ethiopian:
+"RTN","OSEP6P",153,0)
+ ;;
+"RTN","OSEP6P",154,0)
+ ;;  Proverbs in the Amharic language:
+"RTN","OSEP6P",155,0)
+ ;;
+"RTN","OSEP6P",156,0)
+ ;;  ሰማይ አይታረስ ንጉሥ አይከሰስ።
+"RTN","OSEP6P",157,0)
+ ;;  ብላ ካለኝ እንደአባቴ በቆመጠኝ።
+"RTN","OSEP6P",158,0)
+ ;;  ጌጥ ያለቤቱ ቁምጥና ነው።
+"RTN","OSEP6P",159,0)
+ ;;  ደሀ በሕልሙ ቅቤ ባይጠጣ ንጣት በገደለው።
+"RTN","OSEP6P",160,0)
+ ;;  የአፍ ወለምታ በቅቤ አይታሽም።
+"RTN","OSEP6P",161,0)
+ ;;  አይጥ በበላ ዳዋ ተመታ።
+"RTN","OSEP6P",162,0)
+ ;;  ሲተረጉሙ ይደረግሙ።
+"RTN","OSEP6P",163,0)
+ ;;  ቀስ በቀስ፥ ዕንቁላል በእግሩ ይሄዳል።
+"RTN","OSEP6P",164,0)
+ ;;  ድር ቢያብር አንበሳ ያስር።
+"RTN","OSEP6P",165,0)
+ ;;  ሰው እንደቤቱ እንጅ እንደ ጉረቤቱ አይተዳደርም።
+"RTN","OSEP6P",166,0)
+ ;;  እግዜር የከፈተውን ጉሮሮ ሳይዘጋው አይድርም።
+"RTN","OSEP6P",167,0)
+ ;;  የጎረቤት ሌባ፥ ቢያዩት ይስቅ ባያዩት ያጠልቅ።
+"RTN","OSEP6P",168,0)
+ ;;  ሥራ ከመፍታት ልጄን ላፋታት።
+"RTN","OSEP6P",169,0)
+ ;;  ዓባይ ማደሪያ የለው፥ ግንድ ይዞ ይዞራል።
+"RTN","OSEP6P",170,0)
+ ;;  የእስላም አገሩ መካ የአሞራ አገሩ ዋርካ።
+"RTN","OSEP6P",171,0)
+ ;;  ተንጋሎ ቢተፉ ተመልሶ ባፉ።
+"RTN","OSEP6P",172,0)
+ ;;  ወዳጅህ ማር ቢሆን ጨርስህ አትላሰው።
+"RTN","OSEP6P",173,0)
+ ;;  እግርህን በፍራሽህ ልክ ዘርጋ።
+"RTN","OSEP6P",174,0)
+ ;;
+"RTN","OSEP6P",175,0)
+ ;;Runes:
+"RTN","OSEP6P",176,0)
+ ;;
+"RTN","OSEP6P",177,0)
+ ;;  ᚻᛖ ᚳᚹᚫᚦ ᚦᚫᛏ ᚻᛖ ᛒᚢᛞᛖ ᚩᚾ ᚦᚫᛗ ᛚᚪᚾᛞᛖ ᚾᚩᚱᚦᚹᛖᚪᚱᛞᚢᛗ ᚹᛁᚦ ᚦᚪ ᚹᛖᛥᚫ
+"RTN","OSEP6P",178,0)
+ ;;
+"RTN","OSEP6P",179,0)
+ ;;  (Old English, which transcribed into Latin reads 'He cwaeth that he
+"RTN","OSEP6P",180,0)
+ ;;  bude thaem lande northweardum with tha Westsae.' and means 'He said
+"RTN","OSEP6P",181,0)
+ ;;  that he lived in the northern land near the Western Sea.')
+"RTN","OSEP6P",182,0)
+ ;;
+"RTN","OSEP6P",183,0)
+ ;;Braille:
+"RTN","OSEP6P",184,0)
+ ;;
+"RTN","OSEP6P",185,0)
+ ;;  ⡌⠁⠧⠑ ⠼⠁⠒  ⡍⠜⠇⠑⠹⠰⠎ ⡣⠕⠌
+"RTN","OSEP6P",186,0)
+ ;;
+"RTN","OSEP6P",187,0)
+ ;;  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠙⠑⠁⠙⠒ ⠞⠕ ⠃⠑⠛⠔ ⠺⠊⠹⠲ ⡹⠻⠑ ⠊⠎ ⠝⠕ ⠙⠳⠃⠞
+"RTN","OSEP6P",188,0)
+ ;;  ⠱⠁⠞⠑⠧⠻ ⠁⠃⠳⠞ ⠹⠁⠞⠲ ⡹⠑ ⠗⠑⠛⠊⠌⠻ ⠕⠋ ⠙⠊⠎ ⠃⠥⠗⠊⠁⠇ ⠺⠁⠎
+"RTN","OSEP6P",189,0)
+ ;;  ⠎⠊⠛⠝⠫ ⠃⠹ ⠹⠑ ⠊⠇⠻⠛⠹⠍⠁⠝⠂ ⠹⠑ ⠊⠇⠻⠅⠂ ⠹⠑ ⠥⠝⠙⠻⠞⠁⠅⠻⠂
+"RTN","OSEP6P",190,0)
+ ;;  ⠁⠝⠙ ⠹⠑ ⠡⠊⠑⠋ ⠍⠳⠗⠝⠻⠲ ⡎⠊⠗⠕⠕⠛⠑ ⠎⠊⠛⠝⠫ ⠊⠞⠲ ⡁⠝⠙
+"RTN","OSEP6P",191,0)
+ ;;  ⡎⠊⠗⠕⠕⠛⠑⠰⠎ ⠝⠁⠍⠑ ⠺⠁⠎ ⠛⠕⠕⠙ ⠥⠏⠕⠝ ⠰⡡⠁⠝⠛⠑⠂ ⠋⠕⠗ ⠁⠝⠹⠹⠔⠛ ⠙⠑
+"RTN","OSEP6P",192,0)
+ ;;  ⠡⠕⠎⠑ ⠞⠕ ⠏⠥⠞ ⠙⠊⠎ ⠙⠁⠝⠙ ⠞⠕⠲
+"RTN","OSEP6P",193,0)
+ ;;
+"RTN","OSEP6P",194,0)
+ ;;  ⡕⠇⠙ ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+"RTN","OSEP6P",195,0)
+ ;;
+"RTN","OSEP6P",196,0)
+ ;;  ⡍⠔⠙⠖ ⡊ ⠙⠕⠝⠰⠞ ⠍⠑⠁⠝ ⠞⠕ ⠎⠁⠹ ⠹⠁⠞ ⡊ ⠅⠝⠪⠂ ⠕⠋ ⠍⠹
+"RTN","OSEP6P",197,0)
+ ;;  ⠪⠝ ⠅⠝⠪⠇⠫⠛⠑⠂ ⠱⠁⠞ ⠹⠻⠑ ⠊⠎ ⠏⠜⠞⠊⠊⠥⠇⠜⠇⠹ ⠙⠑⠁⠙ ⠁⠃⠳⠞
+"RTN","OSEP6P",198,0)
+ ;;  ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲ ⡊ ⠍⠊⠣⠞ ⠙⠁⠧⠑ ⠃⠑⠲ ⠔⠊⠇⠔⠫⠂ ⠍⠹⠎⠑⠇⠋⠂ ⠞⠕
+"RTN","OSEP6P",199,0)
+ ;;  ⠗⠑⠛⠜⠙ ⠁ ⠊⠕⠋⠋⠔⠤⠝⠁⠊⠇ ⠁⠎ ⠹⠑ ⠙⠑⠁⠙⠑⠌ ⠏⠊⠑⠊⠑ ⠕⠋ ⠊⠗⠕⠝⠍⠕⠝⠛⠻⠹
+"RTN","OSEP6P",200,0)
+ ;;  ⠔ ⠹⠑ ⠞⠗⠁⠙⠑⠲ ⡃⠥⠞ ⠹⠑ ⠺⠊⠎⠙⠕⠍ ⠕⠋ ⠳⠗ ⠁⠝⠊⠑⠌⠕⠗⠎
+"RTN","OSEP6P",201,0)
+ ;;  ⠊⠎ ⠔ ⠹⠑ ⠎⠊⠍⠊⠇⠑⠆ ⠁⠝⠙ ⠍⠹ ⠥⠝⠙⠁⠇⠇⠪⠫ ⠙⠁⠝⠙⠎
+"RTN","OSEP6P",202,0)
+ ;;  ⠩⠁⠇⠇ ⠝⠕⠞ ⠙⠊⠌⠥⠗⠃ ⠊⠞⠂ ⠕⠗ ⠹⠑ ⡊⠳⠝⠞⠗⠹⠰⠎ ⠙⠕⠝⠑ ⠋⠕⠗⠲ ⡹⠳
+"RTN","OSEP6P",203,0)
+ ;;  ⠺⠊⠇⠇ ⠹⠻⠑⠋⠕⠗⠑ ⠏⠻⠍⠊⠞ ⠍⠑ ⠞⠕ ⠗⠑⠏⠑⠁⠞⠂ ⠑⠍⠏⠙⠁⠞⠊⠊⠁⠇⠇⠹⠂ ⠹⠁⠞
+"RTN","OSEP6P",204,0)
+ ;;  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+"RTN","OSEP6P",205,0)
+ ;;
+"RTN","OSEP6P",206,0)
+ ;;  (The first couple of paragraphs of "A Christmas Carol" by Dickens)
+"RTN","OSEP6P",207,0)
+ ;;
+"RTN","OSEP6P",208,0)
+ ;;Compact font selection example text:
+"RTN","OSEP6P",209,0)
+ ;;
+"RTN","OSEP6P",210,0)
+ ;;  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789
+"RTN","OSEP6P",211,0)
+ ;;  abcdefghijklmnopqrstuvwxyz £©µÀÆÖÞßéöÿ
+"RTN","OSEP6P",212,0)
+ ;;  –—‘“”„†•…‰™œŠŸž€ ΑΒΓΔΩαβγδω АБВГДабвгд
+"RTN","OSEP6P",213,0)
+ ;;  ∀∂∈ℝ∧∪≡∞ ↑↗↨↻⇣ ┐┼╔╘░►☺♀ ﬁ�⑀₂ἠḂӥẄɐː⍎אԱა
+"RTN","OSEP6P",214,0)
+ ;;
+"RTN","OSEP6P",215,0)
+ ;;Greetings in various languages:
+"RTN","OSEP6P",216,0)
+ ;;
+"RTN","OSEP6P",217,0)
+ ;;  Hello world, Καλημέρα κόσμε, コンニチハ
+"RTN","OSEP6P",218,0)
+ ;;
+"RTN","OSEP6P",219,0)
+ ;;Box drawing alignment tests:                                          █
+"RTN","OSEP6P",220,0)
+ ;;                                                                      ▉
+"RTN","OSEP6P",221,0)
+ ;;  ╔══╦══╗  ┌──┬──┐  ╭──┬──╮  ╭──┬──╮  ┏━━┳━━┓  ┎┒┏┑   ╷  ╻ ┏┯┓ ┌┰┐    ▊ ╱╲╱╲╳╳╳
+"RTN","OSEP6P",222,0)
+ ;;  ║┌─╨─┐║  │╔═╧═╗│  │╒═╪═╕│  │╓─╁─╖│  ┃┌─╂─┐┃  ┗╃╄┙  ╶┼╴╺╋╸┠┼┨ ┝╋┥    ▋ ╲╱╲╱╳╳╳
+"RTN","OSEP6P",223,0)
+ ;;  ║│╲ ╱│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╿ │┃  ┍╅╆┓   ╵  ╹ ┗┷┛ └┸┘    ▌ ╱╲╱╲╳╳╳
+"RTN","OSEP6P",224,0)
+ ;;  ╠╡ ╳ ╞╣  ├╢   ╟┤  ├┼─┼─┼┤  ├╫─╂─╫┤  ┣┿╾┼╼┿┫  ┕┛┖┚     ┌┄┄┐ ╎ ┏┅┅┓ ┋ ▍ ╲╱╲╱╳╳╳
+"RTN","OSEP6P",225,0)
+ ;;  ║│╱ ╲│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╽ │┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▎
+"RTN","OSEP6P",226,0)
+ ;;  ║└─╥─┘║  │╚═╤═╝│  │╘═╪═╛│  │╙─╀─╜│  ┃└─╂─┘┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▏
+"RTN","OSEP6P",227,0)
+ ;;  ╚══╩══╝  └──┴──┘  ╰──┴──╯  ╰──┴──╯  ┗━━┻━━┛  ▗▄▖▛▀▜   └╌╌┘ ╎ ┗╍╍┛ ┋  ▁▂▃▄▅▆▇█
+"RTN","OSEP6P",228,0)
+ ;;                                               ▝▀▘▙▄▟
+"RTN","OSEP6P",229,0)
+ ;;<<END>>
+"RTN","XWBRW")
+0^2^B22045415
+"RTN","XWBRW",1,0)
+XWBRW ;ISF/RWF - Read/Write for Broker TCP ;2018-08-22  1:52 PM
+"RTN","XWBRW",2,0)
+ ;;1.1;RPC BROKER;**35,49,64,10001**;Mar 28, 1997;Build 1
+"RTN","XWBRW",3,0)
+ ; 
+"RTN","XWBRW",4,0)
+ ; *10001* changes (c) Sam Habiel 2018
+"RTN","XWBRW",5,0)
+ Q
+"RTN","XWBRW",6,0)
+ ;
+"RTN","XWBRW",7,0)
+ ;XWBRBUF is global
+"RTN","XWBRW",8,0)
+ ;SE is a flag to skip error for short read. From PRSB+41^XWBBRK
+"RTN","XWBRW",9,0)
+BREAD(L,TO,SE) ;read tcp buffer, L is length, TO is timeout
+"RTN","XWBRW",10,0)
+ ; *10001* conv $L,$E to $ZL,$ZE passim.
+"RTN","XWBRW",11,0)
+ ; *10001* add comments for future maintenance as this is CRITICAL code
+"RTN","XWBRW",12,0)
+ ; *10001* For valid UTF-8 support, client must send L to read all the bytes
+"RTN","XWBRW",13,0)
+ ;         that would make a valid UTF-8 string, otherwise, we crash with BADCHAR.
+"RTN","XWBRW",14,0)
+ ; 
+"RTN","XWBRW",15,0)
+ ; R = Return variable
+"RTN","XWBRW",16,0)
+ ; S = length remaining to read
+"RTN","XWBRW",17,0)
+ ; DONE = Terminate read loop
+"RTN","XWBRW",18,0)
+ N R,S,DONE
+"RTN","XWBRW",19,0)
+ ;
+"RTN","XWBRW",20,0)
+ ; Nothing to read. Quit
+"RTN","XWBRW",21,0)
+ I L'>0 Q ""
+"RTN","XWBRW",22,0)
+ ;
+"RTN","XWBRW",23,0)
+ ; If the requested bytes are in the temp buffer, just return them and quit
+"RTN","XWBRW",24,0)
+ I $ZL(XWBRBUF)'<L S R=$ZE(XWBRBUF,1,L),XWBRBUF=$ZE(XWBRBUF,L+1,999999) Q R
+"RTN","XWBRW",25,0)
+ ;
+"RTN","XWBRW",26,0)
+ ; Initial values and timeout
+"RTN","XWBRW",27,0)
+ S R="",DONE=0,L=+L
+"RTN","XWBRW",28,0)
+ S TO=$S($G(TO)>0:TO,$G(XWBTIME(1))>0:XWBTIME(1),1:60)/2+1
+"RTN","XWBRW",29,0)
+ ;
+"RTN","XWBRW",30,0)
+ ; Switch to TCP Device
+"RTN","XWBRW",31,0)
+ U XWBTDEV
+"RTN","XWBRW",32,0)
+ ;
+"RTN","XWBRW",33,0)
+ ; Read loop
+"RTN","XWBRW",34,0)
+ F  D  Q:DONE
+"RTN","XWBRW",35,0)
+ . ; For later iterations of the loop (loop must execute at least twice)
+"RTN","XWBRW",36,0)
+ . ; append read content (XWBRBUF) to R, and remove it from XWBRBUF, up to L bytes.
+"RTN","XWBRW",37,0)
+ . ; If we read too much, the remainder stays in XWBRBUF.
+"RTN","XWBRW",38,0)
+ . ; S is only used in the line below as a temporary variable.
+"RTN","XWBRW",39,0)
+ . ; S = length remaining to read
+"RTN","XWBRW",40,0)
+ . S S=L-$ZL(R),R=R_$ZE(XWBRBUF,1,S),XWBRBUF=$ZE(XWBRBUF,S+1,999999)
+"RTN","XWBRW",41,0)
+ . ;
+"RTN","XWBRW",42,0)
+ . ; If we read the length or got an EOT or timed out, we are done.
+"RTN","XWBRW",43,0)
+ . I $ZL(R)=L S DONE=1 QUIT
+"RTN","XWBRW",44,0)
+ . I R[$C(4)  S DONE=1 QUIT
+"RTN","XWBRW",45,0)
+ . ;
+"RTN","XWBRW",46,0)
+ . ; Read (NB: XWBRBUF is overwritten. It is possible that this is a latent bug
+"RTN","XWBRW",47,0)
+ . ; if the previous line doesn't quit and XWBRBUF still has content.)
+"RTN","XWBRW",48,0)
+ . R XWBRBUF:TO E  S DONE=1 QUIT  ; *10001* -> Changed to directly use TO
+"RTN","XWBRW",49,0)
+ . ;
+"RTN","XWBRW",50,0)
+ . ; If there is an error, quit reading
+"RTN","XWBRW",51,0)
+ . I $DEVICE S DONE=1 Q  ;p49
+"RTN","XWBRW",52,0)
+ . ;
+"RTN","XWBRW",53,0)
+ . ; If logging, log the read. Please note that we use $E here to prevent 
+"RTN","XWBRW",54,0)
+ . ; Bad Char errors. This is inaccurate--but I don't know how to fix it right now.
+"RTN","XWBRW",55,0)
+ . ; -- trying $ZWRITE. That may work.
+"RTN","XWBRW",56,0)
+ . I $G(XWBDEBUG)>2,$ZL(XWBRBUF) D LOG^XWBDLOG("rd: "_$ZWRITE($ZE(XWBRBUF,1,252)))
+"RTN","XWBRW",57,0)
+ ;
+"RTN","XWBRW",58,0)
+ I $ZL(R)<L,'$G(SE) S $ECODE=",U411," ;Throw Error, Did not read full length
+"RTN","XWBRW",59,0)
+ Q R
+"RTN","XWBRW",60,0)
+ ;
+"RTN","XWBRW",61,0)
+QSND(XWBR) ;Quick send
+"RTN","XWBRW",62,0)
+ S XWBPTYPE=1,XWBERROR="",XWBSEC="" D SND
+"RTN","XWBRW",63,0)
+ Q
+"RTN","XWBRW",64,0)
+ ;
+"RTN","XWBRW",65,0)
+ESND(XWBR) ;Send from ETRAP
+"RTN","XWBRW",66,0)
+ S XWBPTYPE=1 D SND
+"RTN","XWBRW",67,0)
+ Q
+"RTN","XWBRW",68,0)
+ ;
+"RTN","XWBRW",69,0)
+SND ; Send a response
+"RTN","XWBRW",70,0)
+ N XWBSBUF S XWBSBUF=""
+"RTN","XWBRW",71,0)
+ U XWBTDEV
+"RTN","XWBRW",72,0)
+ ;
+"RTN","XWBRW",73,0)
+ D SNDERR ;Send any error info
+"RTN","XWBRW",74,0)
+ D SNDDATA ;Send the data
+"RTN","XWBRW",75,0)
+ D WRITE($C(4)),WBF
+"RTN","XWBRW",76,0)
+ Q
+"RTN","XWBRW",77,0)
+ ;
+"RTN","XWBRW",78,0)
+SNDDATA ;Send the data part
+"RTN","XWBRW",79,0)
+ N I,D
+"RTN","XWBRW",80,0)
+ ; -- single value
+"RTN","XWBRW",81,0)
+ I XWBPTYPE=1 D WRITE($G(XWBR)) Q
+"RTN","XWBRW",82,0)
+ ; -- table delimited by CR+LF
+"RTN","XWBRW",83,0)
+ I XWBPTYPE=2 D  Q
+"RTN","XWBRW",84,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE(XWBR(I)),WRITE($C(13,10))
+"RTN","XWBRW",85,0)
+ ; -- word processing
+"RTN","XWBRW",86,0)
+ I XWBPTYPE=3 D  Q
+"RTN","XWBRW",87,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE(XWBR(I)) D:XWBWRAP WRITE($C(13,10))
+"RTN","XWBRW",88,0)
+ ; -- global array
+"RTN","XWBRW",89,0)
+ I XWBPTYPE=4 D  Q
+"RTN","XWBRW",90,0)
+ . I $E($G(XWBR))'="^" Q  ; *10001* $E here is okay, as global name will start with single byte of ^
+"RTN","XWBRW",91,0)
+ . S I=$G(XWBR) Q:I=""  S T=$E(I,1,$L(I)-1) ; *10001* I think this is okay to leave as $E and $L
+"RTN","XWBRW",92,0)
+ . ;Only send root node if non-null.
+"RTN","XWBRW",93,0)
+ . I $D(@I)>10 S D=@I I $L(D) D WRITE(D),WRITE($C(13,10)):XWBWRAP&(D'=$C(13,10))
+"RTN","XWBRW",94,0)
+ . F  S I=$Q(@I) Q:I=""!(I'[T)  S D=@I D WRITE(D),WRITE($C(13,10)):XWBWRAP&(D'=$C(13,10))
+"RTN","XWBRW",95,0)
+ . I $D(@XWBR),XWBR'["^XTMP(" K @XWBR  ;p64
+"RTN","XWBRW",96,0)
+ ; -- global instance
+"RTN","XWBRW",97,0)
+ I XWBPTYPE=5 D  Q
+"RTN","XWBRW",98,0)
+ . I $E($G(XWBR))'="^" Q  ; *10001* ditto
+"RTN","XWBRW",99,0)
+ . S XWBR=$G(@XWBR) D WRITE(XWBR) Q
+"RTN","XWBRW",100,0)
+ ; -- variable length records only good upto 255 char)
+"RTN","XWBRW",101,0)
+ I XWBPTYPE=6 D
+"RTN","XWBRW",102,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE($C($ZL(XWBR(I)))),WRITE(XWBR(I))  ; *10001* $L -> $ZL S-Pack packets
+"RTN","XWBRW",103,0)
+ Q
+"RTN","XWBRW",104,0)
+ ;
+"RTN","XWBRW",105,0)
+SNDERR ;send error information
+"RTN","XWBRW",106,0)
+ ;XWBSEC is the security packet, XWBERROR is application packet
+"RTN","XWBRW",107,0)
+ N X
+"RTN","XWBRW",108,0)
+ S $X=0 ;Start with zero
+"RTN","XWBRW",109,0)
+ S X=$E($G(XWBSEC),1,255)
+"RTN","XWBRW",110,0)
+ D WRITE($C($ZL(X))_X) ; *10001* $L -> $ZL S-Pack packets
+"RTN","XWBRW",111,0)
+ S X=$E($G(XWBERROR),1,255)
+"RTN","XWBRW",112,0)
+ D WRITE($C($ZL(X))_X) ; *10001* $L -> $ZL S-Pack packets
+"RTN","XWBRW",113,0)
+ S XWBERROR="",XWBSEC="" ;clears parameters
+"RTN","XWBRW",114,0)
+ Q
+"RTN","XWBRW",115,0)
+ ;
+"RTN","XWBRW",116,0)
+WRITE(STR) ;Write a data string
+"RTN","XWBRW",117,0)
+ ; *10001*: Change all $L, $E to $ZL, $ZE
+"RTN","XWBRW",118,0)
+ N MAX S MAX=2**15-1 ; *10001* 32 k - 1; was 255
+"RTN","XWBRW",119,0)
+ F  Q:'$ZL(STR)  D
+"RTN","XWBRW",120,0)
+ . I $ZL(XWBSBUF)+$ZL(STR)>MAX D WBF
+"RTN","XWBRW",121,0)
+ . S XWBSBUF=XWBSBUF_$ZE(STR,1,MAX),STR=$ZE(STR,MAX+1,99999) ;p49
+"RTN","XWBRW",122,0)
+ Q
+"RTN","XWBRW",123,0)
+ ;
+"RTN","XWBRW",124,0)
+WBF ;Write Buffer Flush
+"RTN","XWBRW",125,0)
+ ; *10001*: Change all $L to $ZL
+"RTN","XWBRW",126,0)
+ ; Still need to set the character set of the device (done in %ZISTCPS & XWBTCPM)
+"RTN","XWBRW",127,0)
+ ; -> If we chunk XWBSBUF, we may fail on the write statement due to BADCHAR.
+"RTN","XWBRW",128,0)
+ Q:'$ZL(XWBSBUF)
+"RTN","XWBRW",129,0)
+ I $G(XWBDEBUG)>2,$ZL(XWBSBUF) D LOG^XWBDLOG("wrt ("_$ZL(XWBSBUF)_"): "_$ZWRITE($ZE(XWBSBUF,1,247)))
+"RTN","XWBRW",130,0)
+ W XWBSBUF,@XWBT("BF")
+"RTN","XWBRW",131,0)
+ S XWBSBUF=""
+"RTN","XWBRW",132,0)
+ Q
+"RTN","XWBTCPM")
+0^1^B58898886
+"RTN","XWBTCPM",1,0)
+XWBTCPM ;ISF/RWF - BROKER TCP/IP PROCESS HANDLER ;2018-08-22  3:17 PM
+"RTN","XWBTCPM",2,0)
+ ;;1.1;RPC BROKER;**35,43,49,53,64,10001**;Mar 28, 1997;Build 1
+"RTN","XWBTCPM",3,0)
+ ;
+"RTN","XWBTCPM",4,0)
+ ; *10001* UTF-8 Support for GT.M
+"RTN","XWBTCPM",5,0)
+ ; *10001* (c) Sam Habiel 2018
+"RTN","XWBTCPM",6,0)
+ ; See *10001* markers below for lines changed.
+"RTN","XWBTCPM",7,0)
+ ;
+"RTN","XWBTCPM",8,0)
+ ;Changed to be started by TCPIP service or %ZISTCPS
+"RTN","XWBTCPM",9,0)
+ ;
+"RTN","XWBTCPM",10,0)
+DSM ;DSM called from ucx, % passed in with device.
+"RTN","XWBTCPM",11,0)
+ D ESET
+"RTN","XWBTCPM",12,0)
+ ;Open the device
+"RTN","XWBTCPM",13,0)
+ S XWBTDEV=% X "O XWBTDEV:(TCPDEV):60" ;Special UCX/DSM open
+"RTN","XWBTCPM",14,0)
+ ;Go find the connection type
+"RTN","XWBTCPM",15,0)
+ U XWBTDEV
+"RTN","XWBTCPM",16,0)
+ G CONNTYPE
+"RTN","XWBTCPM",17,0)
+ ;
+"RTN","XWBTCPM",18,0)
+CACHEVMS ;Cache'/VMS tcpip entry point, called from XWBTCP_START.COM file
+"RTN","XWBTCPM",19,0)
+ D ESET
+"RTN","XWBTCPM",20,0)
+ S XWBTDEV=$S($ZV["VMS":"SYS$NET",1:$P) ;Support for both VMS/TCPIP and Linux/xinetd
+"RTN","XWBTCPM",21,0)
+ ; **Cache'/VMS specific code**
+"RTN","XWBTCPM",22,0)
+ O XWBTDEV::5
+"RTN","XWBTCPM",23,0)
+ X "U XWBTDEV:(::""-M"")" ;Packet mode like DSM
+"RTN","XWBTCPM",24,0)
+ G CONNTYPE
+"RTN","XWBTCPM",25,0)
+ ;
+"RTN","XWBTCPM",26,0)
+NT ;entry from ZISTCPS
+"RTN","XWBTCPM",27,0)
+ ;JOB LISTEN^%ZISTCPS("port","NT^XWBTCPM","stop code")
+"RTN","XWBTCPM",28,0)
+ D ESET
+"RTN","XWBTCPM",29,0)
+ S XWBTDEV=IO
+"RTN","XWBTCPM",30,0)
+ G CONNTYPE
+"RTN","XWBTCPM",31,0)
+ ;
+"RTN","XWBTCPM",32,0)
+GTMUCX(%) ;From ucx ZFOO
+"RTN","XWBTCPM",33,0)
+ ;If called from LISTEN^%ZISTCP(PORT,"GTM^XWBTCPM") S XWBTDEV=IO
+"RTN","XWBTCPM",34,0)
+ D ESET
+"RTN","XWBTCPM",35,0)
+ ;GTM specific code
+"RTN","XWBTCPM",36,0)
+ S $ZINTERRUPT="I $$JOBEXAM^ZU($ZPOSITION)" ; *10001* ; removed fancy quoting
+"RTN","XWBTCPM",37,0)
+ S XWBTDEV=% X "O %:(RECORDSIZE=512)"
+"RTN","XWBTCPM",38,0)
+ G CONNTYPE
+"RTN","XWBTCPM",39,0)
+ ;
+"RTN","XWBTCPM",40,0)
+GTMLNX ;From Linux xinetd script
+"RTN","XWBTCPM",41,0)
+ D ESET
+"RTN","XWBTCPM",42,0)
+ ;GTM specific code
+"RTN","XWBTCPM",43,0)
+ S $ZINTERRUPT="I $$JOBEXAM^ZU($ZPOSITION)" ; *10001* ; removed fancy quoting
+"RTN","XWBTCPM",44,0)
+ S XWBTDEV=$P U XWBTDEV:(nowrap:nodelimiter:ioerror="TRAP":chset="M") ; *10001* ; add chset
+"RTN","XWBTCPM",45,0)
+ S %="",@("%=$ZTRNLNM(""REMOTE_HOST"")") S:$L(%) IO("GTM-IP")=%
+"RTN","XWBTCPM",46,0)
+ G CONNTYPE
+"RTN","XWBTCPM",47,0)
+ ;
+"RTN","XWBTCPM",48,0)
+ESET ;Set inital error trap
+"RTN","XWBTCPM",49,0)
+ S U="^",$ETRAP="D ^%ZTER H" ;Set up the error trap
+"RTN","XWBTCPM",50,0)
+ S X="",@("$ZT=X") ;Clear old trap
+"RTN","XWBTCPM",51,0)
+ Q
+"RTN","XWBTCPM",52,0)
+ ;Find the type of connection and jump to the processing routine.
+"RTN","XWBTCPM",53,0)
+CONNTYPE ;
+"RTN","XWBTCPM",54,0)
+ N XWBDEBUG,XWBAPVER,XWBCLMAN,XWBENVL,XWBLOG,XWBOS,XWBPTYPE
+"RTN","XWBTCPM",55,0)
+ N XWBTBUF,XWBTIP,XWBTSKT,XWBVER,XWBWRAP,XWBSHARE,XWBT
+"RTN","XWBTCPM",56,0)
+ N SOCK,TYPE
+"RTN","XWBTCPM",57,0)
+ D INIT
+"RTN","XWBTCPM",58,0)
+ S XWB=$$BREAD^XWBRW(5,XWBTIME)
+"RTN","XWBTCPM",59,0)
+ D LOG("MSG format is "_XWB_" type "_$S(XWB="[XWB]":"NEW",XWB="{XWB}":"OLD",XWB="<?xml":"M2M",XWB="~BSE~":"BSE",XWB="~EAC~":"EAC",XWB="~SVR~":"SVR",1:"Unk")) ; XWB*1.1*XX
+"RTN","XWBTCPM",60,0)
+ I XWB["<?xml" G M2M
+"RTN","XWBTCPM",61,0)
+ I XWB["[XWB]" G NEW
+"RTN","XWBTCPM",62,0)
+ I XWB["{XWB}" G OLD^XWBTCPM1 ;Deprecated in XWB*1.1*60, to be removed when no longer being used
+"RTN","XWBTCPM",63,0)
+ I $L($T(OTH^XWBTCPM2)) D OTH^XWBTCPM2 ;See if a special code.
+"RTN","XWBTCPM",64,0)
+ I '$L($T(OTH^XWBTCPM2)) D LOG("Prefix not known: "_XWB) ; XWB*1.1*XX
+"RTN","XWBTCPM",65,0)
+ Q
+"RTN","XWBTCPM",66,0)
+ ;
+"RTN","XWBTCPM",67,0)
+NEWJOB() ;Check if OK to start a new job, Return 1 if OK, 0 if not OK.
+"RTN","XWBTCPM",68,0)
+ N X,Y,J,XWBVOL
+"RTN","XWBTCPM",69,0)
+ D GETENV^%ZOSV S XWBVOL=$P(Y,"^",2)
+"RTN","XWBTCPM",70,0)
+ S X=$O(^XTV(8989.3,1,4,"B",XWBVOL,0)),J=$S(X>0:^XTV(8989.3,1,4,X,0),1:"ROU^y^1")
+"RTN","XWBTCPM",71,0)
+ I $G(^%ZIS(14.5,"LOGON",XWBVOL)) Q 0 ;Check INHIBIT LOGONS?
+"RTN","XWBTCPM",72,0)
+ I $D(^%ZOSF("ACTJ")) X ^("ACTJ") I $P(J,U,3),($P(J,U,3)'>Y) Q 0
+"RTN","XWBTCPM",73,0)
+ Q 1
+"RTN","XWBTCPM",74,0)
+ ;
+"RTN","XWBTCPM",75,0)
+M2M ;M2M Broker
+"RTN","XWBTCPM",76,0)
+ S XWBRBUF=XWB_XWBRBUF,(IO,IO(0))=XWBTDEV G SPAWN^XWBVLL
+"RTN","XWBTCPM",77,0)
+ Q
+"RTN","XWBTCPM",78,0)
+ ;
+"RTN","XWBTCPM",79,0)
+NEW ;New broker
+"RTN","XWBTCPM",80,0)
+ S U="^",DUZ=0,DUZ(0)="",XWBVER=1.108
+"RTN","XWBTCPM",81,0)
+ D SETTIME(1) ;Setup for sign-on timeout
+"RTN","XWBTCPM",82,0)
+ U XWBTDEV D
+"RTN","XWBTCPM",83,0)
+ . N XWB,ERR,NATIP,I
+"RTN","XWBTCPM",84,0)
+ . S ERR=$$PRSP^XWBPRS
+"RTN","XWBTCPM",85,0)
+ . S ERR=$$PRSM^XWBPRS
+"RTN","XWBTCPM",86,0)
+ . S MSG=$G(XWB(4,"CMD")) ;Build connect msg.
+"RTN","XWBTCPM",87,0)
+ . S I="" F  S I=$O(XWB(5,"P",I)) Q:I=""  S MSG=MSG_U_XWB(5,"P",I)
+"RTN","XWBTCPM",88,0)
+ . ;Get the peer and save that IP.
+"RTN","XWBTCPM",89,0)
+ . S NATIP=$$GETPEER^%ZOSV S:'$L(NATIP) NATIP=$P(MSG,"^",2)
+"RTN","XWBTCPM",90,0)
+ . I NATIP'=$P(MSG,"^",2) S $P(MSG,"^",2)=NATIP
+"RTN","XWBTCPM",91,0)
+ . Q
+"RTN","XWBTCPM",92,0)
+ S X=$$NEWJOB() D:'X LOG("No New Connects")
+"RTN","XWBTCPM",93,0)
+ I ($P(MSG,U)'="TCPConnect")!('X) D QSND^XWBRW("reject"),LOG("reject: "_MSG) Q
+"RTN","XWBTCPM",94,0)
+ D QSND^XWBRW("accept"),LOG("accept") ;Ack
+"RTN","XWBTCPM",95,0)
+ S IO("IP")=$P(MSG,U,2),XWBTSKT=$P(MSG,U,3),XWBCLMAN=$P(MSG,U,4)
+"RTN","XWBTCPM",96,0)
+ S XWBTIP=$G(IO("IP"))
+"RTN","XWBTCPM",97,0)
+ ;start RUM for Broker Handler XWB*1.1*5
+"RTN","XWBTCPM",98,0)
+ D LOGRSRC^%ZOSV("$BROKER HANDLER$",2,1)
+"RTN","XWBTCPM",99,0)
+ ;GTM
+"RTN","XWBTCPM",100,0)
+ I $G(XWBT("PCNT")) D
+"RTN","XWBTCPM",101,0)
+ . S X=$NA(^XUTL("XUSYS",$J,1)) L +@X:0
+"RTN","XWBTCPM",102,0)
+ . D COUNT^XUSCNT(1),SETLOCK^XUSCNT(X)
+"RTN","XWBTCPM",103,0)
+ ;We don't use a callback
+"RTN","XWBTCPM",104,0)
+ K XWB,CON,LEN,MSG ;Clean up
+"RTN","XWBTCPM",105,0)
+ ;Attempt to share license, Must have TCP port open first.
+"RTN","XWBTCPM",106,0)
+ U XWBTDEV ;D SHARELIC^%ZOSV(1)
+"RTN","XWBTCPM",107,0)
+ ;setup null device "NULL"
+"RTN","XWBTCPM",108,0)
+ S %ZIS="0H",IOP="NULL" D ^%ZIS S XWBNULL=IO I POP S XWBERROR="No NULL device" D LOG(XWBERROR),EXIT Q
+"RTN","XWBTCPM",109,0)
+ D SAVDEV^%ZISUTL("XWBNULL")
+"RTN","XWBTCPM",110,0)
+ ;change process name
+"RTN","XWBTCPM",111,0)
+ D CHPRN("ip"_$P(XWBTIP,".",3,4)_":"_XWBTDEV)
+"RTN","XWBTCPM",112,0)
+ ;
+"RTN","XWBTCPM",113,0)
+RESTART ;The error trap returns to here
+"RTN","XWBTCPM",114,0)
+ N $ESTACK S $ETRAP="D ETRAP^XWBTCPM(0)"
+"RTN","XWBTCPM",115,0)
+ S DT=$$DT^XLFDT,DTIME=30
+"RTN","XWBTCPM",116,0)
+ U XWBTDEV D MAIN
+"RTN","XWBTCPM",117,0)
+ D LOG("Exit: "_XWBTBUF)
+"RTN","XWBTCPM",118,0)
+ ;Turn off the error trap for the exit
+"RTN","XWBTCPM",119,0)
+ S $ETRAP=""
+"RTN","XWBTCPM",120,0)
+ D EXIT ;Logout
+"RTN","XWBTCPM",121,0)
+ K XWBR,XWBARY
+"RTN","XWBTCPM",122,0)
+ ;stop RUM for handler XWB*1.1*5
+"RTN","XWBTCPM",123,0)
+ D LOGRSRC^%ZOSV("$BROKER HANDLER$",2,2)
+"RTN","XWBTCPM",124,0)
+ D USE^%ZISUTL("XWBNULL"),CLOSE^%ZISUTL("XWBNULL")
+"RTN","XWBTCPM",125,0)
+ ;Close in the calling script
+"RTN","XWBTCPM",126,0)
+ K SOCK,TYPE,XWBSND,XWBTYPE,XWBRBUF
+"RTN","XWBTCPM",127,0)
+ Q
+"RTN","XWBTCPM",128,0)
+ ;
+"RTN","XWBTCPM",129,0)
+MAIN ; -- main message processing loop. debug at MAIN+1
+"RTN","XWBTCPM",130,0)
+ F  D  Q:XWBTBUF="#BYE#"
+"RTN","XWBTCPM",131,0)
+ . ;Setup
+"RTN","XWBTCPM",132,0)
+ . S XWBAPVER=0,XWBTBUF="",XWBTCMD="",XWBRBUF=""
+"RTN","XWBTCPM",133,0)
+ . K XWBR,XWBARY,XWBPRT
+"RTN","XWBTCPM",134,0)
+ . ; -- read client request
+"RTN","XWBTCPM",135,0)
+ . S XR=$$BREAD^XWBRW(1,XWBTIME,1)
+"RTN","XWBTCPM",136,0)
+ . I '$L(XR) D LOG("Timeout: "_XWBTIME) S XWBTBUF="#BYE#" Q
+"RTN","XWBTCPM",137,0)
+ . S XR=XR_$$BREAD^XWBRW(4)
+"RTN","XWBTCPM",138,0)
+ . I XR="#BYE#" D  Q  ;Check for exit
+"RTN","XWBTCPM",139,0)
+ . . D QSND^XWBRW("#BYE#"),LOG("BYE CMD") S XWBTBUF="#BYE#"
+"RTN","XWBTCPM",140,0)
+ . . Q
+"RTN","XWBTCPM",141,0)
+ . S TYPE=(XR="[XWB]")  ;check HDR
+"RTN","XWBTCPM",142,0)
+ . I 'TYPE D LOG("Bad Header: "_XR) Q
+"RTN","XWBTCPM",143,0)
+ . D CALLP^XWBPRS(.XWBR,$G(XWBDEBUG)) ;Read the NEW Msg parameters and call RPC
+"RTN","XWBTCPM",144,0)
+ . IF XWBTCMD="#BYE#" D  Q
+"RTN","XWBTCPM",145,0)
+ . . D QSND^XWBRW("#BYE#"),LOG("BYE CMD") S XWBTBUF=XWBTCMD
+"RTN","XWBTCPM",146,0)
+ . . Q
+"RTN","XWBTCPM",147,0)
+ . U XWBTDEV
+"RTN","XWBTCPM",148,0)
+ . S XWBPTYPE=$S('$D(XWBPTYPE):1,XWBPTYPE<1:1,XWBPTYPE>6:1,1:XWBPTYPE)
+"RTN","XWBTCPM",149,0)
+ . ;I $G(XWBPRT) D RETURN^XWBPRS2 Q  ;New msg return
+"RTN","XWBTCPM",150,0)
+ . I '$G(XWBPRT) D SND^XWBRW ;Return data,flush buffer
+"RTN","XWBTCPM",151,0)
+ Q  ;End Of Main
+"RTN","XWBTCPM",152,0)
+ ;
+"RTN","XWBTCPM",153,0)
+ ;
+"RTN","XWBTCPM",154,0)
+ETRAP(EXIT) ; -- on trapped error, send error info to client
+"RTN","XWBTCPM",155,0)
+ N XWBERC,XWBERR
+"RTN","XWBTCPM",156,0)
+ ;Change trapping during trap.
+"RTN","XWBTCPM",157,0)
+ S $ETRAP="D ^%ZTER,ETRAP^XWBTCPM(1)"
+"RTN","XWBTCPM",158,0)
+ S XWBERC=$E($$EC^%ZOSV,1,200),XWBERR="M  ERROR="_XWBERC_$C(13,10)_"LAST REF="_$$LGR^%ZOSV
+"RTN","XWBTCPM",159,0)
+ I $EC["U411" S XWBERROR="U411",XWBSEC="",XWBERR="Data Transfer Error to Server"
+"RTN","XWBTCPM",160,0)
+ D ^%ZTER ;%ZTER clears $ZE and $ZCODE
+"RTN","XWBTCPM",161,0)
+ D LOG("In ETRAP: "_XWBERC) ;Log
+"RTN","XWBTCPM",162,0)
+ I (XWBERC["READ")!(XWBERC["WRITE")!(XWBERC["SYSTEM-F")!(XWBERC["IOEOF") D EXIT X "HALT "
+"RTN","XWBTCPM",163,0)
+ U XWBTDEV
+"RTN","XWBTCPM",164,0)
+ I $G(XWBT("PCNT")) L +^XUTL("XUSYS",$J,0):99
+"RTN","XWBTCPM",165,0)
+ E  L  ;Clear Locks
+"RTN","XWBTCPM",166,0)
+ ;
+"RTN","XWBTCPM",167,0)
+ D ESND^XWBRW($C(24)_XWBERR_$C(4))
+"RTN","XWBTCPM",168,0)
+ I EXIT D EXIT X "HALT "
+"RTN","XWBTCPM",169,0)
+ S $ETRAP="Q:($ESTACK&'$QUIT)  Q:$ESTACK -9 S $ECODE="""" D CLEANP^XWBTCPM G RESTART^XWBTCPM",$ECODE=",U99,"
+"RTN","XWBTCPM",170,0)
+ Q
+"RTN","XWBTCPM",171,0)
+ ;
+"RTN","XWBTCPM",172,0)
+CLEANP ;Clean up the partion
+"RTN","XWBTCPM",173,0)
+ N XWBTDEV,XWBNULL D KILL^XUSCLEAN
+"RTN","XWBTCPM",174,0)
+ Q
+"RTN","XWBTCPM",175,0)
+ ;
+"RTN","XWBTCPM",176,0)
+STYPE(X,WRAP) ;For backward compatability only
+"RTN","XWBTCPM",177,0)
+ I $D(WRAP) Q $$RTRNFMT^XWBLIB($G(X),WRAP)
+"RTN","XWBTCPM",178,0)
+ Q $$RTRNFMT^XWBLIB(X)
+"RTN","XWBTCPM",179,0)
+ ;
+"RTN","XWBTCPM",180,0)
+BREAD(L,T) ;read tcp buffer, L is length
+"RTN","XWBTCPM",181,0)
+ Q $$BREAD^XWBRW(L,$G(T))
+"RTN","XWBTCPM",182,0)
+ ;
+"RTN","XWBTCPM",183,0)
+CHPRN(N) ;change process name
+"RTN","XWBTCPM",184,0)
+ ;Change process name to N
+"RTN","XWBTCPM",185,0)
+ D SETNM^%ZOSV($E(N,1,15))
+"RTN","XWBTCPM",186,0)
+ Q
+"RTN","XWBTCPM",187,0)
+ ;
+"RTN","XWBTCPM",188,0)
+SETTIME(%) ;Set the Read timeout 0=RPC, 1=sign-on
+"RTN","XWBTCPM",189,0)
+ ; Increased timeout period (%=1) during signon from 90 to 180 for accessibility reasons
+"RTN","XWBTCPM",190,0)
+ S XWBTIME=$S($G(%):180,$G(XWBVER)>1.1:$$BAT^XUPARAM,1:36000),XWBTIME(1)=5 ; (*p35)
+"RTN","XWBTCPM",191,0)
+ Q
+"RTN","XWBTCPM",192,0)
+TIMEOUT ;Do this on MAIN  loop timeout
+"RTN","XWBTCPM",193,0)
+ I $G(DUZ)>0 D QSND^XWBRW("#BYE#") Q
+"RTN","XWBTCPM",194,0)
+ ;Sign-on timeout
+"RTN","XWBTCPM",195,0)
+ S XWBR(0)=0,XWBR(1)=1,XWBR(2)="",XWBR(3)="TIME-OUT",XWBPTYPE=2
+"RTN","XWBTCPM",196,0)
+ D SND^XWBRW
+"RTN","XWBTCPM",197,0)
+ Q
+"RTN","XWBTCPM",198,0)
+ ;
+"RTN","XWBTCPM",199,0)
+OS() ;Return the OS
+"RTN","XWBTCPM",200,0)
+ Q $S(^%ZOSF("OS")["OpenM":"OpenM",^%ZOSF("OS")["GT.M":"GT.M",^("OS")["DSM":"DSM",1:"UNK")
+"RTN","XWBTCPM",201,0)
+ ;
+"RTN","XWBTCPM",202,0)
+INIT ;Setup
+"RTN","XWBTCPM",203,0)
+ S U="^",XWBTIME=10,XWBOS=$$OS,XWBDEBUG=0,XWBRBUF=""
+"RTN","XWBTCPM",204,0)
+ S XWBDEBUG=$$GET^XPAR("SYS","XWBDEBUG")
+"RTN","XWBTCPM",205,0)
+ S XWBT("BF")=$S(XWBOS="GT.M":"#",1:"!")
+"RTN","XWBTCPM",206,0)
+ S XWBT("PCNT")=0 I XWBOS="GT.M",$L($T(^XUSCNT)) S XWBT("PCNT")=1
+"RTN","XWBTCPM",207,0)
+ D LOGSTART^XWBDLOG("XWBTCPM")
+"RTN","XWBTCPM",208,0)
+ Q
+"RTN","XWBTCPM",209,0)
+ ;
+"RTN","XWBTCPM",210,0)
+DEBUG ;Entry point for debug, Build a server to get the connect
+"RTN","XWBTCPM",211,0)
+ ;Cache sample;ZB SERV+1^XWBTCPM:"L+" ZB ETRAP+1^XWBTCPM:"B"
+"RTN","XWBTCPM",212,0)
+ W !,"Before running this entry point set your debugger to stop at"
+"RTN","XWBTCPM",213,0)
+ W !,"the place you want to debug. Some spots to use:"
+"RTN","XWBTCPM",214,0)
+ W !,"'SERV+1^XWBTCPM', 'MAIN+1^XWBTCPM' or 'CAPI+1^XWBPRS.'",!
+"RTN","XWBTCPM",215,0)
+ W !,"or location of your choice.",!
+"RTN","XWBTCPM",216,0)
+ W !,"IP Socket to Listen on: " R SOCK:300,! Q:'$T!(SOCK["^")
+"RTN","XWBTCPM",217,0)
+ ;Use %ZISTCP to do a single server
+"RTN","XWBTCPM",218,0)
+ D LISTEN^%ZISTCP(SOCK,"SERV^XWBTCPM")
+"RTN","XWBTCPM",219,0)
+ U $P W !,"Done"
+"RTN","XWBTCPM",220,0)
+ Q
+"RTN","XWBTCPM",221,0)
+SERV ;Callback from the server
+"RTN","XWBTCPM",222,0)
+ S XWBTDEV=IO,XWBTIME(1)=3600 D INIT
+"RTN","XWBTCPM",223,0)
+ S XWBDEBUG=1,MSG=$$BREAD^XWBRW(5,60) ;R MSG#5
+"RTN","XWBTCPM",224,0)
+ D NEW
+"RTN","XWBTCPM",225,0)
+ S IO("C")=1 ;Cause the Listenr to stop
+"RTN","XWBTCPM",226,0)
+ Q
+"RTN","XWBTCPM",227,0)
+ ;
+"RTN","XWBTCPM",228,0)
+EXIT ;Close out
+"RTN","XWBTCPM",229,0)
+ I $G(DUZ) D LOGOUT^XUSRB
+"RTN","XWBTCPM",230,0)
+ I $G(XWBT("PCNT")) D COUNT^XUSCNT(-1)
+"RTN","XWBTCPM",231,0)
+ Q
+"RTN","XWBTCPM",232,0)
+ ;
+"RTN","XWBTCPM",233,0)
+LOG(MSG) ;Record Debug Info
+"RTN","XWBTCPM",234,0)
+ D:$G(XWBDEBUG) LOG^XWBDLOG(MSG)
+"RTN","XWBTCPM",235,0)
+ Q
+"RTN","XWBTCPM",236,0)
+ ;
+"RTN","ZISTCPS")
+0^3^B17756179
+"RTN","ZISTCPS",1,0)
+%ZISTCPS ;ISF/RWF - DEVICE HANDLER TCP/IP SERVER CALLS ;2018-08-22  3:16 PM
+"RTN","ZISTCPS",2,0)
+ ;;8.0;KERNEL;**78,118,127,225,275,388,10001,10003**;Jul 10, 1995;Build 1
+"RTN","ZISTCPS",3,0)
+ ; Submitted to OSEHRA in 2017 by Sam Habiel for OSEHRA
+"RTN","ZISTCPS",4,0)
+ ; Original Routine authored by Department of Veterans Affairs
+"RTN","ZISTCPS",5,0)
+ ; EPs LGTM and GTMLNCH authored by Sam Habiel 2016.
+"RTN","ZISTCPS",6,0)
+ Q
+"RTN","ZISTCPS",7,0)
+ ;
+"RTN","ZISTCPS",8,0)
+CLOSE ;Close and reset
+"RTN","ZISTCPS",9,0)
+ G CLOSE^%ZISTCP
+"RTN","ZISTCPS",10,0)
+ Q
+"RTN","ZISTCPS",11,0)
+ ;
+"RTN","ZISTCPS",12,0)
+ ;In ZRULE, set ZISQUIT=1 to quit
+"RTN","ZISTCPS",13,0)
+LISTEN(SOCK,RTN,ZRULE) ;Listen on socket, start routine
+"RTN","ZISTCPS",14,0)
+ N %A,ZISOS,X,NIO,EXIT
+"RTN","ZISTCPS",15,0)
+ N $ES,$ET S $ETRAP="D OPNERR^%ZISTCPS"
+"RTN","ZISTCPS",16,0)
+ S ZISOS=^%ZOSF("OS"),ZRULE=$G(ZRULE)
+"RTN","ZISTCPS",17,0)
+ S POP=1
+"RTN","ZISTCPS",18,0)
+ D GETENV^%ZOSV S U="^",XUENV=Y,XQVOL=$P(Y,U,2)
+"RTN","ZISTCPS",19,0)
+ S POP=1 D LONT:ZISOS["OpenM",LGTM:ZISOS["GT.M"
+"RTN","ZISTCPS",20,0)
+ I 'POP C NIO ;Close port
+"RTN","ZISTCPS",21,0)
+ Q
+"RTN","ZISTCPS",22,0)
+ ;
+"RTN","ZISTCPS",23,0)
+ ;
+"RTN","ZISTCPS",24,0)
+LONT ;Open port in Accept mode with standard terminators.
+"RTN","ZISTCPS",25,0)
+ N %ZA,NEWCHAR
+"RTN","ZISTCPS",26,0)
+ S NIO="|TCP|"_SOCK,EXIT=0
+"RTN","ZISTCPS",27,0)
+ ;(adr:sock:term:ibuf:obuf:queue)
+"RTN","ZISTCPS",28,0)
+ O NIO:(:SOCK:"AT"::512:512:10):30 Q:'$T  S POP=0 U NIO
+"RTN","ZISTCPS",29,0)
+ ;Wait on read for a connect
+"RTN","ZISTCPS",30,0)
+LONT2 F  U NIO R *NEWCHAR:30 S EXIT=$$EXIT Q:$T!EXIT
+"RTN","ZISTCPS",31,0)
+ I EXIT C NIO Q
+"RTN","ZISTCPS",32,0)
+ ;JOB params (:Concurrent Server bit:principal input:principal output)
+"RTN","ZISTCPS",33,0)
+ J CHILDONT^%ZISTCPS(NIO,RTN):(:16::):10 S %ZA=$ZA
+"RTN","ZISTCPS",34,0)
+ I %ZA\8196#2=1 W *-2 ;Job failed to clear bit
+"RTN","ZISTCPS",35,0)
+ G LONT2
+"RTN","ZISTCPS",36,0)
+ ;
+"RTN","ZISTCPS",37,0)
+CHILDONT(IO,RTN) ;Child process for OpenM
+"RTN","ZISTCPS",38,0)
+ S $ETRAP="D ^%ZTER L  HALT",IO=$ZU(53)
+"RTN","ZISTCPS",39,0)
+ U IO:(::"-M") ;Work like DSM
+"RTN","ZISTCPS",40,0)
+ S NEWJOB=$$NEWOK
+"RTN","ZISTCPS",41,0)
+ I 'NEWJOB W "421 Service temporarily down.",$C(13,10),!
+"RTN","ZISTCPS",42,0)
+ I NEWJOB K NEWJOB D VAR,@RTN
+"RTN","ZISTCPS",43,0)
+ HALT
+"RTN","ZISTCPS",44,0)
+ ;
+"RTN","ZISTCPS",45,0)
+VAR ;Setup IO variables
+"RTN","ZISTCPS",46,0)
+ S IO(0)=IO,IO(1,IO)="",POP=0
+"RTN","ZISTCPS",47,0)
+ S IOT="TCP",IOST="P-TCP",IOST(0)=0
+"RTN","ZISTCPS",48,0)
+ S IOF=$$FLUSHCHR^%ZISTCP
+"RTN","ZISTCPS",49,0)
+ S ^XUTL("XQ",$J,0)=$$DT^XLFDT
+"RTN","ZISTCPS",50,0)
+ Q
+"RTN","ZISTCPS",51,0)
+NEWOK() ;Is it OK to start a new process
+"RTN","ZISTCPS",52,0)
+ I $G(^%ZIS(14.5,"LOGON",^%ZOSF("VOL"))) Q 0
+"RTN","ZISTCPS",53,0)
+ I $$AVJ^%ZOSV()<3 Q 0
+"RTN","ZISTCPS",54,0)
+ Q 1
+"RTN","ZISTCPS",55,0)
+OPNERR ;
+"RTN","ZISTCPS",56,0)
+ S POP=1,EXIT=1,IO("ERROR")=$ECODE,$ECODE=""
+"RTN","ZISTCPS",57,0)
+ Q
+"RTN","ZISTCPS",58,0)
+EXIT() ;See if time to exit
+"RTN","ZISTCPS",59,0)
+ I $$S^%ZTLOAD Q 1
+"RTN","ZISTCPS",60,0)
+ N ZISQUIT S ZISQUIT=0
+"RTN","ZISTCPS",61,0)
+ I $L(ZRULE) X ZRULE I $G(ZISQUIT) Q 1
+"RTN","ZISTCPS",62,0)
+ Q 0
+"RTN","ZISTCPS",63,0)
+ ;
+"RTN","ZISTCPS",64,0)
+LGTM ;GT.M multi-threaded server
+"RTN","ZISTCPS",65,0)
+ S $ZINT="I $$JOBEXAM^ZU($ZPOSITION)"
+"RTN","ZISTCPS",66,0)
+ K ^TMP("ZISTCP",$J)
+"RTN","ZISTCPS",67,0)
+ ;
+"RTN","ZISTCPS",68,0)
+ I +$P($ZV,"V",2)<6.1 D  QUIT  ; Not supported under 6.1 of GT.M
+"RTN","ZISTCPS",69,0)
+ . D LOG("Multi-threaded listener doesn't work in GT.M < 6.1")
+"RTN","ZISTCPS",70,0)
+ ;
+"RTN","ZISTCPS",71,0)
+ S NIO="SCK$"_SOCK
+"RTN","ZISTCPS",72,0)
+ D LOG("Open for Listen "_NIO)
+"RTN","ZISTCPS",73,0)
+ ;
+"RTN","ZISTCPS",74,0)
+ ; Open the device
+"RTN","ZISTCPS",75,0)
+ O NIO:(LISTEN=SOCK_":TCP":ATTACH="server"):2:"SOCKET"
+"RTN","ZISTCPS",76,0)
+ I '$T D LOG("Can't Open Socket: "_SOCK) QUIT
+"RTN","ZISTCPS",77,0)
+ ;
+"RTN","ZISTCPS",78,0)
+ ; Use Device
+"RTN","ZISTCPS",79,0)
+ U NIO S NIO("ZISTCP",0)=$KEY D LOG("Have port.")
+"RTN","ZISTCPS",80,0)
+ ;
+"RTN","ZISTCPS",81,0)
+ ;Start Listening
+"RTN","ZISTCPS",82,0)
+ W /LISTEN(5) S NIO("ZISTCP",1)=$KEY D LOG("Start Listening. "_NIO("ZISTCP",1))
+"RTN","ZISTCPS",83,0)
+ ;
+"RTN","ZISTCPS",84,0)
+ ;Wait for connection
+"RTN","ZISTCPS",85,0)
+ S POP=0
+"RTN","ZISTCPS",86,0)
+ F  D  Q:POP
+"RTN","ZISTCPS",87,0)
+ . S POP=$$EXIT ; Exit?
+"RTN","ZISTCPS",88,0)
+ . Q:POP        ; oh okay, exit.
+"RTN","ZISTCPS",89,0)
+ . W /WAIT(5)   ; Wait for connect
+"RTN","ZISTCPS",90,0)
+ . Q:$KEY=""    ; no connection; loop around, and check if we need to shut down.
+"RTN","ZISTCPS",91,0)
+ . N CHILDSOCK S CHILDSOCK=$P($KEY,"|",2) ; child socket from server.
+"RTN","ZISTCPS",92,0)
+ . U NIO:(detach=CHILDSOCK) ; detach it so that we can job it off.
+"RTN","ZISTCPS",93,0)
+ . S NIO("ZISTCP",2)=$KEY
+"RTN","ZISTCPS",94,0)
+ . S NIO("SOCK")=$P($G(NIO("ZISTCP",2)),"|",2)
+"RTN","ZISTCPS",95,0)
+ . D LOG("Got connection on "_NIO("SOCK"))
+"RTN","ZISTCPS",96,0)
+ . I '$$NEWOK D  QUIT
+"RTN","ZISTCPS",97,0)
+ . . U NIO:(SOCKET=NIO("SOCK")) W "421 Service temporarily down.",$C(13,10),#
+"RTN","ZISTCPS",98,0)
+ . . C NIO:(SOCKET=NIO("SOCK")) K NIO("ZISTCP",2)
+"RTN","ZISTCPS",99,0)
+ . N Q S Q="""" ; next three lines build job command's argument.
+"RTN","ZISTCPS",100,0)
+ . N ARG S ARG=Q_"SOCKET:"_CHILDSOCK_Q ; ditto
+"RTN","ZISTCPS",101,0)
+ . N J S J="GTMLNCH("_Q_RTN_Q_"):(input="_ARG_":output="_ARG_":error="_Q_"/dev/null"_Q_")" ; ditto 
+"RTN","ZISTCPS",102,0)
+ . J @J
+"RTN","ZISTCPS",103,0)
+ I POP C NIO Q
+"RTN","ZISTCPS",104,0)
+ Q
+"RTN","ZISTCPS",105,0)
+ ;
+"RTN","ZISTCPS",106,0)
+GTMLNCH(RTN) ;Run gt.m job for this conncetion.
+"RTN","ZISTCPS",107,0)
+ N NIO,SOCK,ZISOS,EXIT,XQVOL,$ETRAP
+"RTN","ZISTCPS",108,0)
+ S U="^",$ETRAP="D ^%ZTER L  HALT"
+"RTN","ZISTCPS",109,0)
+ S IO=$P
+"RTN","ZISTCPS",110,0)
+ U IO:(nowrap:nodelimiter:IOERROR="TRAP":CHSET="M") ; *10003* Add Character Set for UTF-8 support
+"RTN","ZISTCPS",111,0)
+ S IO(0)=IO,IO(1,IO)=""
+"RTN","ZISTCPS",112,0)
+ D VAR,@RTN
+"RTN","ZISTCPS",113,0)
+ Q $D(IO("C")) ;Use IO("C") to quit server
+"RTN","ZISTCPS",114,0)
+ ;
+"RTN","ZISTCPS",115,0)
+LOG(MSG) ;LOG STATUS
+"RTN","ZISTCPS",116,0)
+ N CNT
+"RTN","ZISTCPS",117,0)
+ S CNT=$G(^TMP("ZISTCP",$J))+1,^TMP("ZISTCP",$J)=CNT,^($J,CNT)=MSG
+"RTN","ZISTCPS",118,0)
+ Q
+"RTN","ZISTCPS",119,0)
+ ;
+"VER")
+8.0^22.2
+**END**
+**END**
